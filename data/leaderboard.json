@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-17T05:47:21.079Z",
+  "updatedAt": "2026-10-20T21:14:11.565Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -810424,6 +810424,596 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "arena:57wV50vH",
+      "lichessId": "57wV50vH",
+      "type": "arena",
+      "name": "LMAO Night 428 Team Battle",
+      "startAt": "2026-10-16T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/57wV50vH",
+      "results": [
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 122,
+          "rank": 1
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 62,
+          "rank": 2
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 44,
+          "rank": 3
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 29,
+          "rank": 4
+        },
+        {
+          "playerId": "augustus20",
+          "username": "Augustus20",
+          "points": 26,
+          "rank": 5
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 22,
+          "rank": 6
+        },
+        {
+          "playerId": "uhary",
+          "username": "Uhary",
+          "points": 13,
+          "rank": 7
+        },
+        {
+          "playerId": "baleot",
+          "username": "BALEOT",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 10,
+          "rank": 9
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "id": "arena:9j0H7tv7",
+      "lichessId": "9j0H7tv7",
+      "type": "arena",
+      "name": "LMAO Day 429 Team Battle",
+      "startAt": "2026-10-17T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/9j0H7tv7",
+      "results": [
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 117,
+          "rank": 1
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 70,
+          "rank": 2
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 59,
+          "rank": 3
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 40,
+          "rank": 4
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 20,
+          "rank": 5
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 18,
+          "rank": 6
+        },
+        {
+          "playerId": "phone_player",
+          "username": "Phone_player",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "peonilandia",
+          "username": "Peonilandia",
+          "points": 1,
+          "rank": 9
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 0,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "id": "arena:z1Uyp5xc",
+      "lichessId": "z1Uyp5xc",
+      "type": "arena",
+      "name": "Weekly Chess960 Blitz Team Battle",
+      "startAt": "2026-10-17T11:00:00.000Z",
+      "url": "https://lichess.org/tournament/z1Uyp5xc",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:OF1qKkSb",
+      "lichessId": "OF1qKkSb",
+      "type": "arena",
+      "name": "LMAO Night 429 Team Battle",
+      "startAt": "2026-10-17T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/OF1qKkSb",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 102,
+          "rank": 1
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 73,
+          "rank": 2
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 67,
+          "rank": 3
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 8,
+          "rank": 4
+        },
+        {
+          "playerId": "akacso",
+          "username": "AKacso",
+          "points": 6,
+          "rank": 5
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 5,
+          "rank": 6
+        },
+        {
+          "playerId": "allesgehtzubruch",
+          "username": "allesgehtzubruch",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "dampayla10",
+          "username": "Dampayla10",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 0,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "id": "arena:qGxUhgbV",
+      "lichessId": "qGxUhgbV",
+      "type": "arena",
+      "name": "LMAO Day 430 Team Battle",
+      "startAt": "2026-10-18T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/qGxUhgbV",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 102,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 54,
+          "rank": 2
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 31,
+          "rank": 3
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "dampayla10",
+          "username": "Dampayla10",
+          "points": 19,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 14,
+          "rank": 6
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "playerId": "invalid94",
+          "username": "invalid94",
+          "points": 9,
+          "rank": 8
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 6,
+          "rank": 9
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "id": "arena:q7ldAACi",
+      "lichessId": "q7ldAACi",
+      "type": "arena",
+      "name": "15+15-Sonntagnachmittag Team Battle",
+      "startAt": "2026-10-18T13:30:00.000Z",
+      "url": "https://lichess.org/tournament/q7ldAACi",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:dS8XgTjL",
+      "lichessId": "dS8XgTjL",
+      "type": "arena",
+      "name": "632nd ULTRAbullet Team Battle",
+      "startAt": "2026-10-18T14:00:00.000Z",
+      "url": "https://lichess.org/tournament/dS8XgTjL",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 16,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:yfNdWDpo",
+      "lichessId": "yfNdWDpo",
+      "type": "arena",
+      "name": "LMAO Night 430 Team Battle",
+      "startAt": "2026-10-18T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/yfNdWDpo",
+      "results": [
+        {
+          "playerId": "dampayla10",
+          "username": "Dampayla10",
+          "points": 28,
+          "rank": 1
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 20,
+          "rank": 2
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 12,
+          "rank": 3
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 7,
+          "rank": 4
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 5
+        },
+        {
+          "playerId": "sergioing",
+          "username": "SergioING",
+          "points": 0,
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "arena:Fuu9cG78",
+      "lichessId": "Fuu9cG78",
+      "type": "arena",
+      "name": "LMAO Day 431 Team Battle",
+      "startAt": "2026-10-19T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/Fuu9cG78",
+      "results": [
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 66,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 40,
+          "rank": 2
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 31,
+          "rank": 3
+        },
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 7,
+          "rank": 5
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 6
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "arena:BhF5bnOs",
+      "lichessId": "BhF5bnOs",
+      "type": "arena",
+      "name": "LMAO Night 431 Team Battle",
+      "startAt": "2026-10-19T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/BhF5bnOs",
+      "results": [
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 32,
+          "rank": 1
+        },
+        {
+          "playerId": "angriffsrochade",
+          "username": "Angriffsrochade",
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 12,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 8,
+          "rank": 4
+        },
+        {
+          "playerId": "invalid94",
+          "username": "invalid94",
+          "points": 5,
+          "rank": 5
+        },
+        {
+          "playerId": "peonilandia",
+          "username": "Peonilandia",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 0,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "arena:1Y3EG7wp",
+      "lichessId": "1Y3EG7wp",
+      "type": "arena",
+      "name": "LMAO Day 432 Team Battle",
+      "startAt": "2026-10-20T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/1Y3EG7wp",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 92,
+          "rank": 1
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 17,
+          "rank": 2
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 16,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 1,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 0,
+          "rank": 6
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 0,
+          "rank": 8
         }
       ]
     }
