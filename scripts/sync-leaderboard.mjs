@@ -12,9 +12,9 @@ export async function syncLeaderboard({
   // returns tournaments newest-first and does not expose a cursor, so this
   // needs to cover the full period we want to display.
   tournamentHistoryLimit = Number(process.env.LICHESS_TOURNAMENT_LIMIT || 12_000),
-  // Fetch standings concurrently, but keep a modest limit so we do not
-  // overload Lichess or trigger its rate limiter during the backfill.
-  resultConcurrency = Number(process.env.LICHESS_RESULT_CONCURRENCY || 12),
+  // New runs normally have only a few tournaments to import. Keep this low to
+  // respect Lichess rate limits while still allowing a gradual backfill.
+  resultConcurrency = Number(process.env.LICHESS_RESULT_CONCURRENCY || 2),
   outputPath = process.env.LEADERBOARD_DATA_PATH || path.resolve("data/leaderboard.json"),
   client = createLichessClient({ teamId, tournamentHistoryLimit }),
   read = readDataset,
@@ -100,7 +100,7 @@ export async function syncLeaderboard({
 
         const error = outcome.reason;
         if (error instanceof Error && error.message.includes("Lichess returned 404")) {
-          // Some old team Arena listings outlive the team-specific standings page.
+          // Some old team Arena listings outlive the official results endpoint.
           // Record them once so scheduled syncs do not retry permanently missing data.
           dataset.unavailableTournamentIds.push(compositeId);
           knownIds.add(compositeId);

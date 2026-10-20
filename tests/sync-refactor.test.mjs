@@ -3,22 +3,17 @@ import assert from "node:assert/strict";
 import { mkdtemp, readFile, rm, writeFile } from "node:fs/promises";
 import os from "node:os";
 import path from "node:path";
-import { createLichessClient, parseRecords, parseTeamBattleHtml } from "../lib/lichess.mjs";
+import { createLichessClient, parseRecords } from "../lib/lichess.mjs";
 import { createEmptyDataset, readDataset, writeDataset } from "../lib/leaderboard-store.mjs";
 import { syncLeaderboard } from "../scripts/sync-leaderboard.mjs";
 
 const quietLogger = { log() {}, warn() {}, error() {} };
 
-test("Lichess parsing handles NDJSON and Arena team standings", () => {
+test("Lichess parsing handles NDJSON", () => {
   assert.deepEqual(parseRecords(['{"id":"one"}', '{"id":"two"}'].join(String.fromCharCode(10))), [
     { id: "one" },
     { id: "two" },
   ]);
-  const html = '<table class="tour__team-info"><tr><td>1</td><td><a href="/@/Ana_Chess">Ana</a></td><td>1,250</td></tr></table>';
-  assert.deepEqual(parseTeamBattleHtml(html), [
-    { playerId: "ana_chess", username: "Ana_Chess", points: 1250, rank: 1 },
-  ]);
-  assert.throws(() => parseTeamBattleHtml("<table></table>"), /team-specific Arena standings table/);
 });
 
 test("Lichess client builds encoded team requests", async () => {
@@ -33,6 +28,31 @@ test("Lichess client builds encoded team requests", async () => {
   });
   assert.deepEqual(await client.getTournamentList("arena"), [{ id: "event1", status: 30 }]);
   assert.equal(requestedUrl, "https://lichess.org/api/team/team%20name/arena?max=50");
+});
+
+test("Lichess client uses the official Arena results API and keeps only the configured team", async () => {
+  let requestedUrl;
+  let requestedAccept;
+  const client = createLichessClient({
+    teamId: "Our-Team",
+    tournamentHistoryLimit: 50,
+    fetchImpl: async (url, options) => {
+      requestedUrl = url;
+      requestedAccept = options.headers.Accept;
+      return new Response([
+        '{"rank":2,"score":20,"username":"Ana","team":"other-team"}',
+        '{"rank":4,"score":15,"username":"Bea","team":"our-team"}',
+        '{"rank":8,"score":9,"username":"Carlos","team":"Our-Team"}',
+      ].join(String.fromCharCode(10)), { status: 200 });
+    },
+  });
+
+  assert.deepEqual(await client.getTournamentResults("arena", "event/id"), [
+    { playerId: "bea", username: "Bea", points: 15, rank: 1 },
+    { playerId: "carlos", username: "Carlos", points: 9, rank: 2 },
+  ]);
+  assert.equal(requestedUrl, "https://lichess.org/api/tournament/event%2Fid/results?nb=10000");
+  assert.equal(requestedAccept, "application/x-ndjson, application/json");
 });
 
 test("dataset storage preserves corrupt files and round-trips atomically", async () => {
