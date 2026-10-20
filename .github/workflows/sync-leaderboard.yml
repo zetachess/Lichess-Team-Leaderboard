@@ -20,14 +20,15 @@ jobs:
     timeout-minutes: 60
     steps:
       - name: Checkout código
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Preparar Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 22
+          package-manager-cache: false
 
       - name: Cargar datos guardados
         shell: bash
