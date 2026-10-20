@@ -73,6 +73,9 @@ export async function syncLeaderboard({
       const batch = candidates.slice(offset, offset + resultConcurrency);
       const imported = await Promise.allSettled(batch.map(async ({ event, lichessId, compositeId, startAt }) => {
         const results = await client.getTournamentResults(type, lichessId);
+        if (results.length === 0) {
+          throw new Error("Lichess returned no team results for " + compositeId + ".");
+        }
         const name = String(event.name ?? event.fullName ?? event.tournament?.name ?? "Torneo de Colegas de Kike");
         return { compositeId, lichessId, type, name, startAt, results };
       }));

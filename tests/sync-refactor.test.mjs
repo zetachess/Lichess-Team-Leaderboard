@@ -55,6 +55,26 @@ test("Lichess client uses the official Arena results API and keeps only the conf
   assert.equal(requestedAccept, "application/x-ndjson, application/json");
 });
 
+test("Lichess client retries temporary forbidden responses", async () => {
+  let requests = 0;
+  const waits = [];
+  const client = createLichessClient({
+    teamId: "colegas-de-kike",
+    tournamentHistoryLimit: 100,
+    fetchImpl: async () => {
+      requests += 1;
+      if (requests < 3) return new Response("blocked", { status: 403 });
+      return new Response('{"id":"arena-1","status":30}\n', { status: 200 });
+    },
+    sleepImpl: async (delay) => waits.push(delay),
+  });
+
+  const events = await client.getTournamentList("arena");
+  assert.equal(requests, 3);
+  assert.deepEqual(waits, [5_000, 10_000]);
+  assert.equal(events[0].id, "arena-1");
+});
+
 test("dataset storage preserves corrupt files and round-trips atomically", async () => {
   const directory = await mkdtemp(path.join(os.tmpdir(), "leaderboard-store-"));
   const filePath = path.join(directory, "nested", "data.json");
@@ -104,4 +124,34 @@ test("syncLeaderboard imports completed tournaments using injected dependencies"
   assert.equal(result.dataset.tournaments[0].results[0].points, 12);
   assert.equal(result.dataset.updatedAt, "2026-10-15T06:00:00.000Z");
   assert.equal(savedSnapshots.length, 2);
+});
+
+test("syncLeaderboard does not record a tournament with empty team results", async () => {
+  const dataset = {
+    team: "colegas-de-kike",
+    updatedAt: "2026-10-19T00:00:00.000Z",
+    coverageFrom: null,
+    unavailableTournamentIds: [],
+    tournaments: [],
+  };
+  const client = {
+    async getTournamentList() {
+      return [{ id: "empty", status: 30, startsAt: "2026-10-20T18:00:00.000Z" }];
+    },
+    async getTournamentResults() {
+      return [];
+    },
+  };
+
+  const result = await syncLeaderboard({
+    client,
+    read: async () => dataset,
+    write: async () => {},
+    logger: { log() {}, warn() {}, error() {} },
+    now: () => new Date("2026-10-20T20:00:00.000Z"),
+  });
+
+  assert.equal(result.failed, true);
+  assert.equal(result.dataset.tournaments.length, 0);
+  assert.equal(result.dataset.updatedAt, "2026-10-19T00:00:00.000Z");
 });
