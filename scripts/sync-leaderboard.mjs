@@ -9,7 +9,7 @@ export async function syncLeaderboard({
   // Lichess returns the newest tournaments first. The saved dataset retains
   // the complete imported history, so routine runs only need a recent window.
   // Raise LICHESS_TOURNAMENT_LIMIT explicitly when rebuilding older history.
-  tournamentHistoryLimit = Number(process.env.LICHESS_TOURNAMENT_LIMIT || 1_000),
+  tournamentHistoryLimit = Number(process.env.LICHESS_TOURNAMENT_LIMIT || 100),
   // New runs normally have only a few tournaments to import. Keep this low to
   // respect Lichess rate limits while still allowing a gradual backfill.
   resultConcurrency = Number(process.env.LICHESS_RESULT_CONCURRENCY || 2),
