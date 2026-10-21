@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-21T15:22:42.427Z",
+  "updatedAt": "2026-10-21T19:22:44.045Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811078,6 +811078,82 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:rRqdqAv9",
+      "lichessId": "rRqdqAv9",
+      "type": "arena",
+      "name": "LMAO Day 433 Team Battle",
+      "startAt": "2026-10-21T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/rRqdqAv9",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 50,
+          "rank": 1
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 38,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 20,
+          "rank": 3
+        },
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 18,
+          "rank": 4
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 16,
+          "rank": 5
+        },
+        {
+          "playerId": "jokratak",
+          "username": "Jokratak",
+          "points": 15,
+          "rank": 6
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 5,
+          "rank": 9
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 11
         }
       ]
     }
