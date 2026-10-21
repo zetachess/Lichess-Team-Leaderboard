@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-21T05:18:46.127Z",
+  "updatedAt": "2026-10-21T10:18:38.957Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811014,6 +811014,70 @@
           "username": "JorgeFG77",
           "points": 0,
           "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "arena:OuUWi5PZ",
+      "lichessId": "OuUWi5PZ",
+      "type": "arena",
+      "name": "LMAO Night 432 Team Battle",
+      "startAt": "2026-10-20T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/OuUWi5PZ",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 47,
+          "rank": 1
+        },
+        {
+          "playerId": "t_ganzhin_mikhail",
+          "username": "T_Ganzhin_Mikhail",
+          "points": 22,
+          "rank": 2
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 8,
+          "rank": 3
+        },
+        {
+          "playerId": "lukskordoba",
+          "username": "lukskordoba",
+          "points": 6,
+          "rank": 4
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 4,
+          "rank": 5
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 3,
+          "rank": 6
+        },
+        {
+          "playerId": "peonilandia",
+          "username": "Peonilandia",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
         }
       ]
     }
