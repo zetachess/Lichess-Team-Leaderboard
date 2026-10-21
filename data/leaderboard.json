@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-21T19:22:44.045Z",
+  "updatedAt": "2026-10-21T22:28:20.401Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811154,6 +811154,34 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 11
+        }
+      ]
+    },
+    {
+      "id": "arena:gV5qjViI",
+      "lichessId": "gV5qjViI",
+      "type": "arena",
+      "name": "Lichess Bullet League 50A Team Battle",
+      "startAt": "2026-10-21T18:00:00.000Z",
+      "url": "https://lichess.org/tournament/gV5qjViI",
+      "results": [
+        {
+          "playerId": "vladymyr1657",
+          "username": "vladymyr1657",
+          "points": 35,
+          "rank": 1
+        },
+        {
+          "playerId": "gafferz",
+          "username": "gafferz",
+          "points": 3,
+          "rank": 2
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 3
         }
       ]
     }
