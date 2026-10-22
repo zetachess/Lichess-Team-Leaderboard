@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-22T05:54:15.869Z",
+  "updatedAt": "2026-10-22T11:31:03.320Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811182,6 +811182,46 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:XQCFMkam",
+      "lichessId": "XQCFMkam",
+      "type": "arena",
+      "name": "LMAO Night 433 Team Battle",
+      "startAt": "2026-10-21T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/XQCFMkam",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 63,
+          "rank": 1
+        },
+        {
+          "playerId": "edomar246",
+          "username": "EdOmar246",
+          "points": 33,
+          "rank": 2
+        },
+        {
+          "playerId": "augustus20",
+          "username": "Augustus20",
+          "points": 6,
+          "rank": 3
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 4
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 0,
+          "rank": 5
         }
       ]
     }
