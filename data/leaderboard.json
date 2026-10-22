@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-22T16:01:18.069Z",
+  "updatedAt": "2026-10-22T19:53:00.331Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811222,6 +811222,52 @@
           "username": "Pavelaguedomarrero",
           "points": 0,
           "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "arena:mwMnH7d4",
+      "lichessId": "mwMnH7d4",
+      "type": "arena",
+      "name": "LMAO Day 434 Team Battle",
+      "startAt": "2026-10-22T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/mwMnH7d4",
+      "results": [
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 37,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 28,
+          "rank": 2
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 12,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 4,
+          "rank": 4
+        },
+        {
+          "playerId": "jokratak",
+          "username": "Jokratak",
+          "points": 3,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
         }
       ]
     }
