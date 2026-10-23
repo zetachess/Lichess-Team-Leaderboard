@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-23T16:58:43.268Z",
+  "updatedAt": "2026-10-23T20:16:06.827Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811332,6 +811332,140 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:ANPbfcDy",
+      "lichessId": "ANPbfcDy",
+      "type": "arena",
+      "name": "LMAO Day 435 Team Battle",
+      "startAt": "2026-10-23T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/ANPbfcDy",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 46,
+          "rank": 1
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 42,
+          "rank": 2
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 29,
+          "rank": 3
+        },
+        {
+          "playerId": "thebeast05",
+          "username": "Thebeast05",
+          "points": 24,
+          "rank": 4
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 22,
+          "rank": 5
+        },
+        {
+          "playerId": "andrey395",
+          "username": "Andrey395",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 10,
+          "rank": 7
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 5,
+          "rank": 8
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 5,
+          "rank": 9
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 2,
+          "rank": 10
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "gmpkt",
+          "username": "gmpkt",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "id": "arena:3n1ucgO8",
+      "lichessId": "3n1ucgO8",
+      "type": "arena",
+      "name": "100th Bullet Chess Master Team Battle",
+      "startAt": "2026-10-23T16:00:00.000Z",
+      "url": "https://lichess.org/tournament/3n1ucgO8",
+      "results": [
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 29,
+          "rank": 1
+        },
+        {
+          "playerId": "ptrujillo",
+          "username": "ptrujillo",
+          "points": 20,
+          "rank": 2
+        },
+        {
+          "playerId": "claudio81",
+          "username": "Claudio81",
+          "points": 12,
+          "rank": 3
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 4,
+          "rank": 4
+        },
+        {
+          "playerId": "endicraft",
+          "username": "endicraft",
+          "points": 0,
+          "rank": 5
+        },
+        {
+          "playerId": "blablebli74",
+          "username": "blablebli74",
+          "points": 0,
+          "rank": 6
         }
       ]
     }
