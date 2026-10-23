@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-23T06:28:19.123Z",
+  "updatedAt": "2026-10-23T12:06:31.260Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811268,6 +811268,70 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "arena:Lz9iPX5g",
+      "lichessId": "Lz9iPX5g",
+      "type": "arena",
+      "name": "LMAO Night 434 Team Battle",
+      "startAt": "2026-10-22T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/Lz9iPX5g",
+      "results": [
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 164,
+          "rank": 1
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 63,
+          "rank": 2
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 45,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 12,
+          "rank": 4
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 5,
+          "rank": 5
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
         }
       ]
     }
