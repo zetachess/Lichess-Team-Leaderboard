@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-23T23:14:00.384Z",
+  "updatedAt": "2026-10-24T01:42:27.368Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811466,6 +811466,22 @@
           "username": "blablebli74",
           "points": 0,
           "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "arena:S6Wz3I4y",
+      "lichessId": "S6Wz3I4y",
+      "type": "arena",
+      "name": "Liga Mentes Brillantes 2274 Team Battle",
+      "startAt": "2026-10-24T00:00:00.000Z",
+      "url": "https://lichess.org/tournament/S6Wz3I4y",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
         }
       ]
     }
