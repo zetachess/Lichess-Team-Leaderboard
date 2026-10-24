@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-24T14:53:29.335Z",
+  "updatedAt": "2026-10-24T18:00:24.336Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811552,6 +811552,22 @@
       "name": "Liga Mentes Brillantes 2274 Team Battle",
       "startAt": "2026-10-24T00:00:00.000Z",
       "url": "https://lichess.org/tournament/S6Wz3I4y",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:OflXE1Qf",
+      "lichessId": "OflXE1Qf",
+      "type": "arena",
+      "name": "Weekly Chess960 Blitz Team Battle",
+      "startAt": "2026-10-24T11:00:00.000Z",
+      "url": "https://lichess.org/tournament/OflXE1Qf",
       "results": [
         {
           "playerId": "ajedrezconzeta",
