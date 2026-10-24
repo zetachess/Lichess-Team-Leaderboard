@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-24T18:00:24.336Z",
+  "updatedAt": "2026-10-24T20:31:45.007Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811558,6 +811558,70 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:qFDq8CSi",
+      "lichessId": "qFDq8CSi",
+      "type": "arena",
+      "name": "LMAO Day 436 Team Battle",
+      "startAt": "2026-10-24T07:00:00.000Z",
+      "url": "https://lichess.org/tournament/qFDq8CSi",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 56,
+          "rank": 1
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 50,
+          "rank": 2
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 8,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 4,
+          "rank": 4
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 2,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "matheo4321",
+          "username": "Matheo4321",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 0,
+          "rank": 9
         }
       ]
     },
