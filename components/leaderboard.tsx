@@ -5,7 +5,10 @@ import Image from "next/image";
 import Link from "next/link";
 import {
   ChartNoAxesCombined,
+  CalendarDays,
   CircleAlert,
+  Clock3,
+  Crown,
   ExternalLink,
   RefreshCw,
   Search,
@@ -126,11 +129,13 @@ function TrophyPodium({ players, language }: { players: Player[]; language: Lang
 function WeeklyHistory({ weeks, language }: { weeks: BoardData["weeklyHistory"]; language: Language }) {
   const t = translations[language];
   return <section className="weekly-history" aria-label={t.weeklyHistoryTitle}>
-    <div className="ranking-card__heading"><div><p className="section-kicker">{t.ranking}</p><h2>{t.weeklyHistoryTitle}</h2></div></div>
-    {weeks.map((week) => <article className="weekly-history__week" key={week.weekStart}>
-      <h3>{shortDate(`${week.weekStart}T12:00:00Z`, language)} – {shortDate(`${week.weekEnd}T12:00:00Z`, language)}</h3>
-      <ol>{week.players.map((player) => <li key={player.playerId}><a href={profileUrl(player.username)} target="_blank" rel="noreferrer">{player.username}</a><strong>{formatPoints(player.points, language)} {t.points}</strong></li>)}</ol>
+    <div className="weekly-history__intro"><div><p className="section-kicker"><Crown size={14} aria-hidden="true" /> {t.ranking}</p><h2>{t.weeklyHistoryTitle}</h2><p>{t.weeklyHistorySubtitle}</p></div><div className="weekly-history__badge"><CalendarDays size={17} aria-hidden="true" /><span>{t.weeklyHistoryTimezone}</span></div></div>
+    <div className="weekly-history__grid">
+    {weeks.map((week, index) => <article className={`weekly-history__week${index === 0 ? " is-current" : ""}`} key={week.weekStart}>
+      <div className="weekly-history__week-head"><div><h3>{shortDate(`${week.weekStart}T12:00:00Z`, language)} – {shortDate(`${week.weekEnd}T12:00:00Z`, language)}</h3><span>{index === 0 ? <><Clock3 size={12} aria-hidden="true" /> {t.weeklyCurrent}</> : <><CalendarDays size={12} aria-hidden="true" /> {t.weeklyClosed}</>}</span></div>{index === 0 && <span className="weekly-history__live">{t.weeklyLive}</span>}</div>
+      <ol>{week.players.map((player, playerIndex) => <li key={player.playerId}><span className={`weekly-history__rank weekly-history__rank--${playerIndex + 1}`}>{playerIndex + 1}</span><a href={profileUrl(player.username)} target="_blank" rel="noreferrer"><span>{player.username}</span><small>{player.tournaments} {t.tournament(player.tournaments)}</small></a><strong>{formatPoints(player.points, language)} <small>{t.points}</small></strong></li>)}</ol>
     </article>)}
+    </div>
   </section>;
 }
 

@@ -182,14 +182,32 @@ a { color: inherit; }
 .score-value strong { color: var(--points); font-size: 19px; font-weight: 700; font-variant-numeric: tabular-nums; }
 .event-count { color: var(--tournaments); font-size: 18px; text-align: center; font-variant-numeric: tabular-nums; }
 .table-empty { height: 130px; color: var(--muted); font-size: 13px; text-align: center; }
-.weekly-history { margin: 0 14px 24px; padding: 20px; border: 1px solid var(--line); border-radius: 14px; background: rgba(16,24,31,.72); }
-.weekly-history__week { padding: 13px 0; border-top: 1px solid rgba(166,181,196,.18); }
-.weekly-history__week h3 { margin: 0 0 9px; color: var(--muted); font-size: 13px; font-weight: 600; }
-.weekly-history__week ol { display: grid; gap: 7px; margin: 0; padding-left: 22px; }
-.weekly-history__week li { display: flex; justify-content: space-between; gap: 12px; color: var(--text); font-size: 14px; }
-.weekly-history__week a { color: var(--text); text-decoration: none; }
+.weekly-history { margin: 0 14px 24px; padding: 22px; border: 1px solid rgba(134,186,255,.25); border-radius: 18px; background: radial-gradient(circle at 90% 0%, rgba(134,186,255,.12), transparent 35%), linear-gradient(145deg, rgba(22,39,51,.98), rgba(13,21,28,.96)); box-shadow: 0 20px 50px rgba(0,0,0,.18); }
+.weekly-history__intro { display: flex; justify-content: space-between; gap: 20px; align-items: flex-start; margin-bottom: 20px; }
+.weekly-history__intro .section-kicker { display: inline-flex; align-items: center; gap: 6px; }
+.weekly-history__intro h2 { margin: 4px 0 5px; font-family: var(--display); font-size: clamp(25px, 3vw, 34px); letter-spacing: -.02em; }
+.weekly-history__intro p:not(.section-kicker) { margin: 0; color: var(--muted); font-size: 13px; }
+.weekly-history__badge, .weekly-history__week-head span { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font-size: 11px; }
+.weekly-history__badge { padding: 9px 11px; border: 1px solid var(--line); border-radius: 999px; white-space: nowrap; }
+.weekly-history__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.weekly-history__week { padding: 16px; border: 1px solid var(--line); border-radius: 14px; background: rgba(8,16,22,.58); transition: transform .2s ease, border-color .2s ease; }
+.weekly-history__week:hover { transform: translateY(-3px); border-color: rgba(134,186,255,.5); }
+.weekly-history__week.is-current { border-color: rgba(104,230,208,.55); box-shadow: inset 0 2px 0 var(--accent); }
+.weekly-history__week-head { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; margin-bottom: 13px; }
+.weekly-history__week h3 { margin: 0 0 7px; color: var(--text); font-size: 13px; font-weight: 700; }
+.weekly-history__live { padding: 4px 7px; border-radius: 999px; color: #061613 !important; background: var(--accent); font-size: 9px !important; font-weight: 800; letter-spacing: .08em; }
+.weekly-history__week ol { display: grid; gap: 7px; margin: 0; padding: 0; list-style: none; }
+.weekly-history__week li { display: grid; grid-template-columns: 25px 1fr auto; gap: 8px; align-items: center; padding: 8px 0; border-top: 1px solid rgba(166,181,196,.14); color: var(--text); font-size: 13px; }
+.weekly-history__rank { display: grid; place-items: center; width: 22px; height: 22px; border-radius: 7px; color: var(--muted); background: rgba(166,181,196,.12); font-size: 11px; font-weight: 800; }
+.weekly-history__rank--1 { color: #2b1900; background: var(--gold); }
+.weekly-history__rank--2 { color: #18212a; background: var(--silver); }
+.weekly-history__rank--3 { color: #2a1005; background: var(--bronze); }
+.weekly-history__week a { display: grid; gap: 2px; min-width: 0; color: var(--text); text-decoration: none; }
 .weekly-history__week a:hover { color: var(--accent); }
-.weekly-history__week strong { color: var(--points); font-variant-numeric: tabular-nums; }
+.weekly-history__week a span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.weekly-history__week a small, .weekly-history__week strong small { color: var(--muted); font-size: 10px; font-weight: 500; }
+.weekly-history__week strong { color: var(--points); font-variant-numeric: tabular-nums; white-space: nowrap; }
+@media (max-width: 760px) { .weekly-history__grid { grid-template-columns: 1fr; } .weekly-history__intro { flex-direction: column; } }
 
 .dashboard-loading { min-height: 270px; display: flex; align-items: center; justify-content: center; gap: 12px; color: var(--muted); font-size: 13px; }
 .loading-icon { color: var(--accent); animation: spin .9s linear infinite; }
