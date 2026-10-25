@@ -4,7 +4,7 @@ import { rankPlayers } from "../../../lib/leaderboard.mjs";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-const leaderboardUrl = "https://raw.githubusercontent.com/zetachess/Lichess-Team-Leaderboard/leaderboard-data/data/leaderboard.json";
+const leaderboardUrl = "https://api.github.com/repos/zetachess/Lichess-Team-Leaderboard/contents/data/leaderboard.json?ref=leaderboard-data";
 
 type TournamentResult = {
   playerId: string;
@@ -31,7 +31,15 @@ type Dataset = {
 };
 
 async function loadDataset(): Promise<Dataset> {
-  const response = await fetch(leaderboardUrl + "?v=" + Date.now(), { cache: "no-store" });
+  const token = process.env.GITHUB_TOKEN;
+  const response = await fetch(leaderboardUrl, {
+    cache: "no-store",
+    headers: {
+      Accept: "application/vnd.github.raw+json",
+      ...(token ? { Authorization: `Bearer ${token}` } : {}),
+      "User-Agent": "colegas-de-kike-leaderboard",
+    },
+  });
   if (!response.ok) throw new Error(`No se pudo leer el archivo de puntos (${response.status}).`);
   const dataset = (await response.json()) as Dataset;
   if (dataset.team !== "colegas-de-kike" || !Array.isArray(dataset.tournaments)) {
