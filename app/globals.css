@@ -199,9 +199,9 @@ a { color: inherit; }
 .weekly-history__week ol { display: grid; gap: 7px; margin: 0; padding: 0; list-style: none; }
 .weekly-history__week li { display: grid; grid-template-columns: 25px 1fr auto; gap: 8px; align-items: center; padding: 8px 0; border-top: 1px solid rgba(166,181,196,.14); color: var(--text); font-size: 13px; }
 .weekly-history__rank { display: grid; place-items: center; width: 22px; height: 22px; border-radius: 7px; color: var(--muted); background: rgba(166,181,196,.12); font-size: 11px; font-weight: 800; }
-.weekly-history__rank--1 { color: #2b1900; background: var(--gold); }
-.weekly-history__rank--2 { color: #18212a; background: var(--silver); }
-.weekly-history__rank--3 { color: #2a1005; background: var(--bronze); }
+.weekly-history__rank--1 { color: #ffd34f; background: rgba(255,211,79,.12); }
+.weekly-history__rank--2 { color: #d8e3ef; background: rgba(216,227,239,.12); }
+.weekly-history__rank--3 { color: #e3a37d; background: rgba(227,163,125,.12); }
 .weekly-history__week a { display: grid; gap: 2px; min-width: 0; color: var(--text); text-decoration: none; }
 .weekly-history__week a:hover { color: var(--accent); }
 .weekly-history__week a span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

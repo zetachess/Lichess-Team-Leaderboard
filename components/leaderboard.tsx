@@ -133,7 +133,7 @@ function WeeklyHistory({ weeks, language }: { weeks: BoardData["weeklyHistory"];
     <div className="weekly-history__grid">
     {weeks.map((week, index) => <article className={`weekly-history__week${index === 0 ? " is-current" : ""}`} key={week.weekStart}>
       <div className="weekly-history__week-head"><div><h3>{shortDate(`${week.weekStart}T12:00:00Z`, language)} – {shortDate(`${week.weekEnd}T12:00:00Z`, language)}</h3><span>{index === 0 ? <><Clock3 size={12} aria-hidden="true" /> {t.weeklyCurrent}</> : <><CalendarDays size={12} aria-hidden="true" /> {t.weeklyClosed}</>}</span></div>{index === 0 && <span className="weekly-history__live">{t.weeklyLive}</span>}</div>
-      <ol>{week.players.map((player, playerIndex) => <li key={player.playerId}><span className={`weekly-history__rank weekly-history__rank--${playerIndex + 1}`}>{playerIndex + 1}</span><a href={profileUrl(player.username)} target="_blank" rel="noreferrer"><span>{player.username}</span><small>{player.tournaments} {t.tournament(player.tournaments)}</small></a><strong>{formatPoints(player.points, language)} <small>{t.points}</small></strong></li>)}</ol>
+      <ol>{week.players.map((player, playerIndex) => <li key={player.playerId}><span className={`weekly-history__rank weekly-history__rank--${playerIndex + 1}`} aria-label={t.place(playerIndex + 1)}><Trophy size={16} strokeWidth={2.2} aria-hidden="true" /></span><a href={profileUrl(player.username)} target="_blank" rel="noreferrer"><span>{player.username}</span><small>{player.tournaments} {t.tournament(player.tournaments)}</small></a><strong>{formatPoints(player.points, language)} <small>{t.points}</small></strong></li>)}</ol>
     </article>)}
     </div>
   </section>;
