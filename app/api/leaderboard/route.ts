@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { rankPlayers } from "../../../lib/leaderboard.mjs";
+import { madridDateKey, mondayKeyInMadrid, rankPlayers } from "../../../lib/leaderboard.mjs";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -31,23 +31,20 @@ type Dataset = {
 };
 
 function weeklyHistory(dataset: Dataset, now: Date) {
-  const madridDate = (date: Date) => new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Madrid", year: "numeric", month: "2-digit", day: "2-digit" }).format(date);
-  const monday = (date: Date) => {
-    const value = new Date(`${madridDate(date)}T12:00:00Z`);
-    value.setUTCDate(value.getUTCDate() - ((value.getUTCDay() + 6) % 7));
-    return value;
+  const addDays = (key: string, days: number) => {
+    const date = new Date(`${key}T12:00:00Z`);
+    date.setUTCDate(date.getUTCDate() + days);
+    return date.toISOString().slice(0, 10);
   };
-  const currentMonday = monday(now);
-  return [0, 1].map((offset) => {
-    const start = new Date(currentMonday);
-    start.setUTCDate(start.getUTCDate() - offset * 7);
-    const end = new Date(start);
-    end.setUTCDate(end.getUTCDate() + 7);
+  const currentMonday = mondayKeyInMadrid(now);
+  return [0, 1, 2].map((offset) => {
+    const start = addDays(currentMonday, -offset * 7);
+    const end = addDays(start, 7);
     const players = rankPlayers({ ...dataset, tournaments: dataset.tournaments.filter((tournament) => {
-      const date = madridDate(new Date(tournament.startAt));
-      return tournament.type === "arena" && date >= madridDate(start) && date < madridDate(end);
+      const date = madridDateKey(new Date(tournament.startAt));
+      return tournament.type === "arena" && date >= start && date < end;
     }) }, "all", now).entries.slice(0, 3);
-    return { weekStart: madridDate(start), weekEnd: madridDate(new Date(end.getTime() - 1)), players };
+    return { weekStart: start, weekEnd: addDays(end, -1), players };
   });
 }
 
