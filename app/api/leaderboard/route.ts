@@ -38,7 +38,7 @@ function weeklyHistory(dataset: Dataset, now: Date) {
     return value;
   };
   const currentMonday = monday(now);
-  return [0, 1, 2].map((offset) => {
+  return [0, 1].map((offset) => {
     const start = new Date(currentMonday);
     start.setUTCDate(start.getUTCDate() - offset * 7);
     const end = new Date(start);
