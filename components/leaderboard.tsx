@@ -25,7 +25,7 @@ type Player = {
 };
 
 type RankedPlayer = Player & { rank: number };
-type Period = "week" | "all";
+type Period = "week" | "all" | "weekly-history";
 
 type BoardData = {
   allTime: Player[];
@@ -40,6 +40,7 @@ type BoardData = {
     biggestTournamentPerformance: TournamentHighlight | null;
     mostConsistentPlayer: PlayerInsight | null;
   };
+  weeklyHistory: { weekStart: string; weekEnd: string; players: Player[] }[];
 };
 
 type PlayerInsight = Player & { rank?: number };
@@ -63,6 +64,7 @@ const EMPTY_BOARD: BoardData = {
   totalPoints: 0,
   weekStart: null,
   highlights: { biggestTournamentPerformance: null, mostConsistentPlayer: null },
+  weeklyHistory: [],
 };
 
 function formatPoints(points: number, language: Language) {
@@ -121,11 +123,23 @@ function TrophyPodium({ players, language }: { players: Player[]; language: Lang
   );
 }
 
+function WeeklyHistory({ weeks, language }: { weeks: BoardData["weeklyHistory"]; language: Language }) {
+  const t = translations[language];
+  return <section className="weekly-history" aria-label={t.weeklyHistoryTitle}>
+    <div className="ranking-card__heading"><div><p className="section-kicker">{t.ranking}</p><h2>{t.weeklyHistoryTitle}</h2></div></div>
+    {weeks.map((week) => <article className="weekly-history__week" key={week.weekStart}>
+      <h3>{shortDate(`${week.weekStart}T12:00:00Z`, language)} – {shortDate(`${week.weekEnd}T12:00:00Z`, language)}</h3>
+      <ol>{week.players.map((player) => <li key={player.playerId}><a href={profileUrl(player.username)} target="_blank" rel="noreferrer">{player.username}</a><strong>{formatPoints(player.points, language)} {t.points}</strong></li>)}</ol>
+    </article>)}
+  </section>;
+}
+
 function PeriodTabs({ value, onChange, language }: { value: Period; onChange: (period: Period) => void; language: Language }) {
   const t = translations[language];
   const periods: { value: Period; label: string }[] = [
     { value: "all", label: t.allTime },
     { value: "week", label: t.weeklyTop },
+    { value: "weekly-history", label: t.weeklyHistoryTitle },
   ];
   return (
     <div className="period-switch" role="tablist" aria-label={t.rankingPeriod}>
@@ -377,8 +391,9 @@ export default function Leaderboard({ language }: { language: Language }) {
                 </div>
                 <span className="search-hint">{normalizedSearch ? t.results(players.length) : t.searchHint}</span>
               </div>
-              {!normalizedSearch && <TrophyPodium players={sourcePlayers.slice(0, 3)} language={language} />}
-              <PlayerTable
+              {!normalizedSearch && period !== "weekly-history" && <TrophyPodium players={sourcePlayers.slice(0, 3)} language={language} />}
+              {!normalizedSearch && period === "weekly-history" && <WeeklyHistory weeks={data.weeklyHistory} language={language} />}
+              {period !== "weekly-history" && <PlayerTable
                 title={`${t.playersHeading} · ${period === "week" ? t.weeklyTop : t.allTime}`}
                 subtitle={period === "all" ? t.history : `${data.weekTournamentCount} ${t.tournament(data.weekTournamentCount)}`}
                 players={players}
@@ -387,7 +402,7 @@ export default function Leaderboard({ language }: { language: Language }) {
                   ? t.noMatches
                   : period === "all" ? t.noHistory : t.noWeek}
                 language={language}
-              />
+              />}
             </div>
           </section>
         </>

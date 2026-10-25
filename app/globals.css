@@ -182,6 +182,14 @@ a { color: inherit; }
 .score-value strong { color: var(--points); font-size: 19px; font-weight: 700; font-variant-numeric: tabular-nums; }
 .event-count { color: var(--tournaments); font-size: 18px; text-align: center; font-variant-numeric: tabular-nums; }
 .table-empty { height: 130px; color: var(--muted); font-size: 13px; text-align: center; }
+.weekly-history { margin: 0 14px 24px; padding: 20px; border: 1px solid var(--line); border-radius: 14px; background: rgba(16,24,31,.72); }
+.weekly-history__week { padding: 13px 0; border-top: 1px solid rgba(166,181,196,.18); }
+.weekly-history__week h3 { margin: 0 0 9px; color: var(--muted); font-size: 13px; font-weight: 600; }
+.weekly-history__week ol { display: grid; gap: 7px; margin: 0; padding-left: 22px; }
+.weekly-history__week li { display: flex; justify-content: space-between; gap: 12px; color: var(--text); font-size: 14px; }
+.weekly-history__week a { color: var(--text); text-decoration: none; }
+.weekly-history__week a:hover { color: var(--accent); }
+.weekly-history__week strong { color: var(--points); font-variant-numeric: tabular-nums; }
 
 .dashboard-loading { min-height: 270px; display: flex; align-items: center; justify-content: center; gap: 12px; color: var(--muted); font-size: 13px; }
 .loading-icon { color: var(--accent); animation: spin .9s linear infinite; }
