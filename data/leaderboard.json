@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-25T19:57:03.301Z",
+  "updatedAt": "2026-10-25T21:42:03.294Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811678,6 +811678,106 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "arena:WtMwDQM7",
+      "lichessId": "WtMwDQM7",
+      "type": "arena",
+      "name": "LMAO Day 437 Team Battle",
+      "startAt": "2026-10-25T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/WtMwDQM7",
+      "results": [
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 88,
+          "rank": 1
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 78,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 70,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 61,
+          "rank": 4
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 55,
+          "rank": 5
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 54,
+          "rank": 6
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 22,
+          "rank": 7
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "angriffsrochade",
+          "username": "Angriffsrochade",
+          "points": 3,
+          "rank": 11
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "playerId": "elbala",
+          "username": "elbala",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 0,
+          "rank": 15
         }
       ]
     },
