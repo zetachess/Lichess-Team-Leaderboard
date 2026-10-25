@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-25T05:17:41.777Z",
+  "updatedAt": "2026-10-25T09:54:56.780Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811638,6 +811638,46 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:KgVirKrw",
+      "lichessId": "KgVirKrw",
+      "type": "arena",
+      "name": "LMAO Night 436 Team Battle",
+      "startAt": "2026-10-24T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/KgVirKrw",
+      "results": [
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 55,
+          "rank": 1
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "playerId": "andrey395",
+          "username": "Andrey395",
+          "points": 2,
+          "rank": 4
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 5
         }
       ]
     }
