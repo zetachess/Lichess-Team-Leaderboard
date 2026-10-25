@@ -208,6 +208,10 @@ a { color: inherit; }
 .weekly-history__week a small, .weekly-history__week strong small { color: var(--muted); font-size: 10px; font-weight: 500; }
 .weekly-history__week strong { color: var(--points); font-variant-numeric: tabular-nums; white-space: nowrap; }
 @media (max-width: 760px) { .weekly-history__grid { grid-template-columns: 1fr; } .weekly-history__intro { flex-direction: column; } }
+.footer-credit { display: inline-flex; align-items: center; justify-content: center; gap: 5px; width: 100%; color: var(--muted); font-size: 12px; }
+.footer-credit a { color: var(--accent); text-decoration: none; font-weight: 700; }
+.footer-credit a:hover { color: var(--text); text-decoration: underline; }
+.footer-credit svg { color: #f07891; }
 
 .dashboard-loading { min-height: 270px; display: flex; align-items: center; justify-content: center; gap: 12px; color: var(--muted); font-size: 13px; }
 .loading-icon { color: var(--accent); animation: spin .9s linear infinite; }

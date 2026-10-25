@@ -10,6 +10,7 @@ import {
   Clock3,
   Crown,
   ExternalLink,
+  Heart,
   RefreshCw,
   Search,
   Swords,
@@ -129,7 +130,7 @@ function TrophyPodium({ players, language }: { players: Player[]; language: Lang
 function WeeklyHistory({ weeks, language }: { weeks: BoardData["weeklyHistory"]; language: Language }) {
   const t = translations[language];
   return <section className="weekly-history" aria-label={t.weeklyHistoryTitle}>
-    <div className="weekly-history__intro"><div><p className="section-kicker"><Crown size={14} aria-hidden="true" /> {t.ranking}</p><h2>{t.weeklyHistoryTitle}</h2><p>{t.weeklyHistorySubtitle}</p></div><div className="weekly-history__badge"><CalendarDays size={17} aria-hidden="true" /><span>{t.weeklyHistoryTimezone}</span></div></div>
+    <div className="weekly-history__intro"><div><p className="section-kicker"><Crown size={14} aria-hidden="true" /> {t.ranking}</p><h2>{t.weeklyHistoryTitle}</h2></div><div className="weekly-history__badge"><CalendarDays size={17} aria-hidden="true" /><span>{t.weeklyHistoryTimezone}</span></div></div>
     <div className="weekly-history__grid">
     {weeks.map((week, index) => <article className={`weekly-history__week${index === 0 ? " is-current" : ""}`} key={week.weekStart}>
       <div className="weekly-history__week-head"><div><h3>{shortDate(`${week.weekStart}T12:00:00Z`, language)} – {shortDate(`${week.weekEnd}T12:00:00Z`, language)}</h3><span>{index === 0 ? <><Clock3 size={12} aria-hidden="true" /> {t.weeklyCurrent}</> : <><CalendarDays size={12} aria-hidden="true" /> {t.weeklyClosed}</>}</span></div>{index === 0 && <span className="weekly-history__live">{t.weeklyLive}</span>}</div>
@@ -414,9 +415,7 @@ export default function Leaderboard({ language }: { language: Language }) {
       )}
 
       <footer className="dashboard-footer">
-        <span className="footer-sync"><RefreshCw size={13} strokeWidth={1.8} aria-hidden="true" /> {t.updated} {formatDate(data.updatedAt, language, { hour: "2-digit", minute: "2-digit" })}</span>
-        <span>{t.coverage} {formatDate(data.coverageFrom, language)}</span>
-        <span>{t.weekTimezone}</span>
+        <span className="footer-credit">Desarrollado por <a href="https://lichess.org/@/ajedrezconzeta" target="_blank" rel="noreferrer">@ajedrezconzeta</a> con <Heart size={13} fill="currentColor" aria-label="amor" /></span>
       </footer>
     </main>
   );
