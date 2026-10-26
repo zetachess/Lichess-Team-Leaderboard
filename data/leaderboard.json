@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-26T05:17:12.928Z",
+  "updatedAt": "2026-10-26T11:16:50.717Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811806,6 +811806,70 @@
           "username": "JorgeFG77",
           "points": 0,
           "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:LeWvHyxR",
+      "lichessId": "LeWvHyxR",
+      "type": "arena",
+      "name": "LMAO Night 437 Team Battle",
+      "startAt": "2026-10-25T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/LeWvHyxR",
+      "results": [
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 29,
+          "rank": 1
+        },
+        {
+          "playerId": "edomar246",
+          "username": "EdOmar246",
+          "points": 27,
+          "rank": 2
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 18,
+          "rank": 3
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 17,
+          "rank": 4
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 0,
+          "rank": 9
         }
       ]
     }
