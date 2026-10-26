@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-26T17:27:39.478Z",
+  "updatedAt": "2026-10-26T21:51:46.476Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811870,6 +811870,94 @@
           "username": "Pavelaguedomarrero",
           "points": 0,
           "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:CuPOgzHP",
+      "lichessId": "CuPOgzHP",
+      "type": "arena",
+      "name": "LMAO Day 438 Team Battle",
+      "startAt": "2026-10-26T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/CuPOgzHP",
+      "results": [
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 67,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 42,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 40,
+          "rank": 3
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 32,
+          "rank": 4
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 29,
+          "rank": 5
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 12,
+          "rank": 6
+        },
+        {
+          "playerId": "orzowey",
+          "username": "orzowey",
+          "points": 8,
+          "rank": 7
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 6,
+          "rank": 8
+        },
+        {
+          "playerId": "edomar246",
+          "username": "EdOmar246",
+          "points": 6,
+          "rank": 9
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "elbala",
+          "username": "elbala",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 13
         }
       ]
     },
