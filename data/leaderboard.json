@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-26T11:16:50.717Z",
+  "updatedAt": "2026-10-26T17:27:39.478Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -811870,6 +811870,28 @@
           "username": "Pavelaguedomarrero",
           "points": 0,
           "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:4bjoPUze",
+      "lichessId": "4bjoPUze",
+      "type": "arena",
+      "name": "639th ULTRAbullet Team Battle",
+      "startAt": "2026-10-26T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/4bjoPUze",
+      "results": [
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 12,
+          "rank": 1
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 2
         }
       ]
     }
