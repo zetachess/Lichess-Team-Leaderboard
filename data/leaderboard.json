@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-27T12:29:10.398Z",
+  "updatedAt": "2026-10-27T18:15:34.586Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812086,6 +812086,28 @@
           "username": "jerrygc79",
           "points": 0,
           "rank": 16
+        }
+      ]
+    },
+    {
+      "id": "arena:zWQToC9t",
+      "lichessId": "zWQToC9t",
+      "type": "arena",
+      "name": "640th ULTRAbullet Team Battle",
+      "startAt": "2026-10-27T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/zWQToC9t",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 55,
+          "rank": 1
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 14,
+          "rank": 2
         }
       ]
     }
