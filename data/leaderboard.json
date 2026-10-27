@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-27T18:15:34.586Z",
+  "updatedAt": "2026-10-27T22:25:27.621Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812086,6 +812086,70 @@
           "username": "jerrygc79",
           "points": 0,
           "rank": 16
+        }
+      ]
+    },
+    {
+      "id": "arena:ddrYtl5R",
+      "lichessId": "ddrYtl5R",
+      "type": "arena",
+      "name": "LMAO Day 439 Team Battle",
+      "startAt": "2026-10-27T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/ddrYtl5R",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 64,
+          "rank": 1
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 28,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 28,
+          "rank": 3
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 23,
+          "rank": 4
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 18,
+          "rank": 6
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 13,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 9
         }
       ]
     },
