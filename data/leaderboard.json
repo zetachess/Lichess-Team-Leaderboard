@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-28T14:08:23.930Z",
+  "updatedAt": "2026-10-28T19:40:16.644Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812234,6 +812234,62 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:wNcLaDP1",
+      "lichessId": "wNcLaDP1",
+      "type": "arena",
+      "name": "641st ULTRAbullet Team Battle",
+      "startAt": "2026-10-28T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/wNcLaDP1",
+      "results": [
+        {
+          "playerId": "vova1968",
+          "username": "vova1968",
+          "points": 10,
+          "rank": 1
+        },
+        {
+          "playerId": "pedroluciap",
+          "username": "PedroLuciaP",
+          "points": 2,
+          "rank": 2
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:koKgbO2M",
+      "lichessId": "koKgbO2M",
+      "type": "arena",
+      "name": "Lichess Bullet League 51A Team Battle",
+      "startAt": "2026-10-28T18:00:00.000Z",
+      "url": "https://lichess.org/tournament/koKgbO2M",
+      "results": [
+        {
+          "playerId": "vladymyr1657",
+          "username": "vladymyr1657",
+          "points": 30,
+          "rank": 1
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 28,
+          "rank": 2
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 3
         }
       ]
     }
