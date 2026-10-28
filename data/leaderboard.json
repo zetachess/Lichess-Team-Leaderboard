@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-28T07:23:52.849Z",
+  "updatedAt": "2026-10-28T14:08:23.930Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812172,6 +812172,46 @@
           "username": "toribiov",
           "points": 14,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:R4pzuIj7",
+      "lichessId": "R4pzuIj7",
+      "type": "arena",
+      "name": "LMAO Night 439 Team Battle",
+      "startAt": "2026-10-27T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/R4pzuIj7",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 49,
+          "rank": 1
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 28,
+          "rank": 2
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 8,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 4,
+          "rank": 4
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 2,
+          "rank": 5
         }
       ]
     },
