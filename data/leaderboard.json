@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-28T19:40:16.644Z",
+  "updatedAt": "2026-10-28T23:32:17.820Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812234,6 +812234,88 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:b2lgCq6I",
+      "lichessId": "b2lgCq6I",
+      "type": "arena",
+      "name": "LMAO Day 440 Team Battle",
+      "startAt": "2026-10-28T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/b2lgCq6I",
+      "results": [
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 48,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 30,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 24,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 20,
+          "rank": 4
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 19,
+          "rank": 5
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 17,
+          "rank": 6
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "playerId": "cosavostra",
+          "username": "COSAVOSTRA",
+          "points": 8,
+          "rank": 8
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 7,
+          "rank": 9
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 5,
+          "rank": 10
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 3,
+          "rank": 11
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 3,
+          "rank": 12
         }
       ]
     },
