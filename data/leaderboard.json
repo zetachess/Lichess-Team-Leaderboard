@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-29T16:24:29.700Z",
+  "updatedAt": "2026-10-29T21:15:42.467Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812430,6 +812430,86 @@
           "username": "rafachess1977",
           "points": 0,
           "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "arena:lSAdGZDl",
+      "lichessId": "lSAdGZDl",
+      "type": "arena",
+      "name": "LMAO Day 441 Team Battle",
+      "startAt": "2026-10-29T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/lSAdGZDl",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 100,
+          "rank": 1
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 36,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 32,
+          "rank": 3
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 21,
+          "rank": 5
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 18,
+          "rank": 6
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 0,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:zTpGW2GR",
+      "lichessId": "zTpGW2GR",
+      "type": "arena",
+      "name": "642nd ULTRAbullet Team Battle",
+      "startAt": "2026-10-29T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/zTpGW2GR",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 172,
+          "rank": 1
         }
       ]
     }
