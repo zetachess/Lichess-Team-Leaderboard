@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-29T02:51:48.083Z",
+  "updatedAt": "2026-10-29T09:42:00.447Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812372,6 +812372,64 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:Dj2oSO1U",
+      "lichessId": "Dj2oSO1U",
+      "type": "arena",
+      "name": "LMAO Night 440 Team Battle",
+      "startAt": "2026-10-28T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/Dj2oSO1U",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 50,
+          "rank": 1
+        },
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 46,
+          "rank": 2
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 22,
+          "rank": 3
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 10,
+          "rank": 4
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 6,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
+        },
+        {
+          "playerId": "jerrygc79",
+          "username": "jerrygc79",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 0,
+          "rank": 8
         }
       ]
     }
