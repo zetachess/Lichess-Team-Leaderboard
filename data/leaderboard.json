@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-30T14:20:03.552Z",
+  "updatedAt": "2026-10-30T19:29:56.179Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812608,6 +812608,80 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:vZPXmfZk",
+      "lichessId": "vZPXmfZk",
+      "type": "arena",
+      "name": "643rd ULTRAbullet Team Battle",
+      "startAt": "2026-10-30T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/vZPXmfZk",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:nIHelzNc",
+      "lichessId": "nIHelzNc",
+      "type": "arena",
+      "name": "151st Lichess Mega Team Battle",
+      "startAt": "2026-10-30T17:00:00.000Z",
+      "url": "https://lichess.org/tournament/nIHelzNc",
+      "results": [
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 14,
+          "rank": 1
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 13,
+          "rank": 2
+        },
+        {
+          "playerId": "kares",
+          "username": "kares",
+          "points": 9,
+          "rank": 3
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 3,
+          "rank": 4
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 5
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 0,
+          "rank": 6
+        },
+        {
+          "playerId": "diemer85",
+          "username": "Diemer85",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 0,
+          "rank": 8
         }
       ]
     }
