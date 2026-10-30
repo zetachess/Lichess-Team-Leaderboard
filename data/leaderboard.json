@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-29T21:15:42.467Z",
+  "updatedAt": "2026-10-30T01:08:42.854Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812510,6 +812510,28 @@
           "username": "ajedrezconzeta",
           "points": 172,
           "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:PDlOgjxF",
+      "lichessId": "PDlOgjxF",
+      "type": "arena",
+      "name": "Liga Mentes Brillantes 2280 Team Battle",
+      "startAt": "2026-10-30T00:00:00.000Z",
+      "url": "https://lichess.org/tournament/PDlOgjxF",
+      "results": [
+        {
+          "playerId": "edomar246",
+          "username": "EdOmar246",
+          "points": 21,
+          "rank": 1
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 2
         }
       ]
     }
