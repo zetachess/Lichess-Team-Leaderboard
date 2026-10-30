@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-30T19:29:56.179Z",
+  "updatedAt": "2026-10-30T23:13:30.858Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812608,6 +812608,106 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:k9daTVkq",
+      "lichessId": "k9daTVkq",
+      "type": "arena",
+      "name": "LMAO Day 442 Team Battle",
+      "startAt": "2026-10-30T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/k9daTVkq",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 103,
+          "rank": 1
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 55,
+          "rank": 2
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 38,
+          "rank": 3
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 27,
+          "rank": 4
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 20,
+          "rank": 5
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 19,
+          "rank": 6
+        },
+        {
+          "playerId": "gerard0705",
+          "username": "Gerard0705",
+          "points": 18,
+          "rank": 7
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 6,
+          "rank": 9
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 1,
+          "rank": 13
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 0,
+          "rank": 15
         }
       ]
     },
