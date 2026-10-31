@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-30T23:13:30.858Z",
+  "updatedAt": "2026-10-31T02:31:21.388Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812782,6 +812782,22 @@
           "username": "Farodriguez",
           "points": 0,
           "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "arena:GNqntqwu",
+      "lichessId": "GNqntqwu",
+      "type": "arena",
+      "name": "Liga Mentes Brillantes 2281 Team Battle",
+      "startAt": "2026-10-31T00:00:00.000Z",
+      "url": "https://lichess.org/tournament/GNqntqwu",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
         }
       ]
     }
