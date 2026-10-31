@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-31T02:31:21.388Z",
+  "updatedAt": "2026-10-31T08:52:18.333Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812728,6 +812728,34 @@
       ]
     },
     {
+      "id": "arena:8wXgk4OI",
+      "lichessId": "8wXgk4OI",
+      "type": "arena",
+      "name": "GP Chess Night Team Battle",
+      "startAt": "2026-10-30T16:30:00.000Z",
+      "url": "https://lichess.org/tournament/8wXgk4OI",
+      "results": [
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 29,
+          "rank": 1
+        },
+        {
+          "playerId": "grancapanga",
+          "username": "grancapanga",
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 3,
+          "rank": 3
+        }
+      ]
+    },
+    {
       "id": "arena:nIHelzNc",
       "lichessId": "nIHelzNc",
       "type": "arena",
@@ -812782,6 +812810,52 @@
           "username": "Farodriguez",
           "points": 0,
           "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "arena:LPG4jOBU",
+      "lichessId": "LPG4jOBU",
+      "type": "arena",
+      "name": "LMAO Night 442 Team Battle",
+      "startAt": "2026-10-30T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/LPG4jOBU",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 54,
+          "rank": 1
+        },
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 42,
+          "rank": 2
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 40,
+          "rank": 3
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 19,
+          "rank": 4
+        },
+        {
+          "playerId": "edomar246",
+          "username": "EdOmar246",
+          "points": 14,
+          "rank": 5
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 12,
+          "rank": 6
         }
       ]
     },
