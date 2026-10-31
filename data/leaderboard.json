@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-10-31T15:13:39.981Z",
+  "updatedAt": "2026-10-31T19:22:45.118Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812872,6 +812872,76 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:G8yAj5LS",
+      "lichessId": "G8yAj5LS",
+      "type": "arena",
+      "name": "GP Chess Day Team Battle",
+      "startAt": "2026-10-31T04:30:00.000Z",
+      "url": "https://lichess.org/tournament/G8yAj5LS",
+      "results": [
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 45,
+          "rank": 1
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 44,
+          "rank": 2
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 29,
+          "rank": 3
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 28,
+          "rank": 4
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 20,
+          "rank": 5
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 8,
+          "rank": 6
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 8,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 3,
+          "rank": 8
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 0,
+          "rank": 10
         }
       ]
     }
