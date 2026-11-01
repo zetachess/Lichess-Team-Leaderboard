@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-01T15:18:05.494Z",
+  "updatedAt": "2026-11-01T19:47:21.533Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -813076,6 +813076,108 @@
           "username": "ajedrezconzeta",
           "points": 0,
           "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "arena:sON7MYJ6",
+      "lichessId": "sON7MYJ6",
+      "type": "arena",
+      "name": "GP Chess Day Team Battle",
+      "startAt": "2026-11-01T04:30:00.000Z",
+      "url": "https://lichess.org/tournament/sON7MYJ6",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 74,
+          "rank": 1
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 11,
+          "rank": 2
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 10,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 8,
+          "rank": 4
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 5,
+          "rank": 5
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 3,
+          "rank": 8
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 2,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:wy0wEb51",
+      "lichessId": "wy0wEb51",
+      "type": "arena",
+      "name": "15+15-Sonntagnachmittag Team Battle",
+      "startAt": "2026-11-01T14:30:00.000Z",
+      "url": "https://lichess.org/tournament/wy0wEb51",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:2vPEnd1i",
+      "lichessId": "2vPEnd1i",
+      "type": "arena",
+      "name": "644th ULTRAbullet Team Battle",
+      "startAt": "2026-11-01T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/2vPEnd1i",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        },
+        {
+          "playerId": "rdcoltt",
+          "username": "RdColtt",
+          "points": 0,
+          "rank": 2
         }
       ]
     }
