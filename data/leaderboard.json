@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-01T01:27:53.875Z",
+  "updatedAt": "2026-11-01T08:08:21.017Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -812942,6 +812942,140 @@
           "username": "kratos82",
           "points": 0,
           "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "arena:QFJne1OX",
+      "lichessId": "QFJne1OX",
+      "type": "arena",
+      "name": "Maratón Liga América 2026.F22 Team Battle",
+      "startAt": "2026-10-31T16:00:00.000Z",
+      "url": "https://lichess.org/tournament/QFJne1OX",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 67,
+          "rank": 1
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 39,
+          "rank": 2
+        },
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 37,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 34,
+          "rank": 4
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 20,
+          "rank": 5
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 15,
+          "rank": 7
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 13,
+          "rank": 8
+        },
+        {
+          "playerId": "garronero",
+          "username": "garronero",
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "playerId": "oldman_pleis",
+          "username": "Oldman_Pleis",
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 1,
+          "rank": 12
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 0,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "id": "arena:MmZ66WhX",
+      "lichessId": "MmZ66WhX",
+      "type": "arena",
+      "name": "LMAO Night 443 Team Battle",
+      "startAt": "2026-10-31T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/MmZ66WhX",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 22,
+          "rank": 1
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 18,
+          "rank": 2
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 4,
+          "rank": 3
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 2,
+          "rank": 4
+        },
+        {
+          "playerId": "nyx007",
+          "username": "Nyx007",
+          "points": 0,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
         }
       ]
     }
