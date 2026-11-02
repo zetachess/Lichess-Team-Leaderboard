@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-02T09:56:45.147Z",
+  "updatedAt": "2026-11-02T20:08:43.820Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -813230,6 +813230,162 @@
           "username": "Ronnyhernandez89",
           "points": 0,
           "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "arena:Vu5Slkl6",
+      "lichessId": "Vu5Slkl6",
+      "type": "arena",
+      "name": "GP Chess Day Team Battle",
+      "startAt": "2026-11-02T04:30:00.000Z",
+      "url": "https://lichess.org/tournament/Vu5Slkl6",
+      "results": [
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 21,
+          "rank": 1
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 8,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:97TwrEyG",
+      "lichessId": "97TwrEyG",
+      "type": "arena",
+      "name": "LMAO Day 445 Team Battle",
+      "startAt": "2026-11-02T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/97TwrEyG",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 68,
+          "rank": 1
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 30,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 22,
+          "rank": 3
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 19,
+          "rank": 4
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 13,
+          "rank": 7
+        },
+        {
+          "playerId": "idvan",
+          "username": "Idvan",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 12,
+          "rank": 9
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 9,
+          "rank": 10
+        },
+        {
+          "playerId": "nyx007",
+          "username": "Nyx007",
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "sergioing",
+          "username": "SergioING",
+          "points": 2,
+          "rank": 14
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 0,
+          "rank": 15
+        },
+        {
+          "playerId": "dracaufeu92",
+          "username": "Dracaufeu92",
+          "points": 0,
+          "rank": 16
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 0,
+          "rank": 17
+        }
+      ]
+    },
+    {
+      "id": "arena:nPkeiXpU",
+      "lichessId": "nPkeiXpU",
+      "type": "arena",
+      "name": "645th ULTRAbullet Team Battle",
+      "startAt": "2026-11-02T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/nPkeiXpU",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 52,
+          "rank": 1
+        },
+        {
+          "playerId": "vova1968",
+          "username": "vova1968",
+          "points": 8,
+          "rank": 2
         }
       ]
     }
