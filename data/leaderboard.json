@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-02T02:36:46.290Z",
+  "updatedAt": "2026-11-02T09:56:45.147Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -813178,6 +813178,58 @@
           "username": "RdColtt",
           "points": 0,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:RNTOVkLW",
+      "lichessId": "RNTOVkLW",
+      "type": "arena",
+      "name": "LMAO Night 444 Team Battle",
+      "startAt": "2026-11-01T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/RNTOVkLW",
+      "results": [
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 30,
+          "rank": 1
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 30,
+          "rank": 2
+        },
+        {
+          "playerId": "invalid94",
+          "username": "invalid94",
+          "points": 27,
+          "rank": 3
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 24,
+          "rank": 4
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 9,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 6,
+          "rank": 6
+        },
+        {
+          "playerId": "ronnyhernandez89",
+          "username": "Ronnyhernandez89",
+          "points": 0,
+          "rank": 7
         }
       ]
     }
