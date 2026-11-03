@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-03T02:27:10.712Z",
+  "updatedAt": "2026-11-03T09:47:14.924Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -813386,6 +813386,110 @@
           "username": "vova1968",
           "points": 8,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:11kAb9QW",
+      "lichessId": "11kAb9QW",
+      "type": "arena",
+      "name": "GP Chess Night Team Battle",
+      "startAt": "2026-11-02T16:30:00.000Z",
+      "url": "https://lichess.org/tournament/11kAb9QW",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 30,
+          "rank": 1
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 5,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 0,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:zNOvYX0p",
+      "lichessId": "zNOvYX0p",
+      "type": "arena",
+      "name": "LMAO Night 445 Team Battle",
+      "startAt": "2026-11-02T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/zNOvYX0p",
+      "results": [
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 38,
+          "rank": 1
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 26,
+          "rank": 2
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 24,
+          "rank": 3
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 19,
+          "rank": 4
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 12,
+          "rank": 5
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 10,
+          "rank": 6
+        },
+        {
+          "playerId": "aliojin1892",
+          "username": "Aliojin1892",
+          "points": 8,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 6,
+          "rank": 8
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 3,
+          "rank": 9
+        },
+        {
+          "playerId": "orce78",
+          "username": "Orce78",
+          "points": 2,
+          "rank": 10
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 0,
+          "rank": 11
         }
       ]
     }
