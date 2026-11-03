@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-03T09:47:14.924Z",
+  "updatedAt": "2026-11-03T17:21:44.462Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -813490,6 +813490,28 @@
           "username": "Anonymus13",
           "points": 0,
           "rank": 11
+        }
+      ]
+    },
+    {
+      "id": "arena:eNiiM5IG",
+      "lichessId": "eNiiM5IG",
+      "type": "arena",
+      "name": "646th ULTRAbullet Team Battle",
+      "startAt": "2026-11-03T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/eNiiM5IG",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 113,
+          "rank": 1
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 24,
+          "rank": 2
         }
       ]
     }
