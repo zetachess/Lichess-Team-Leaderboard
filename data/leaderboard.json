@@ -1,6 +1,6 @@
 {
   "team": "colegas-de-kike",
-  "updatedAt": "2026-11-03T17:21:44.462Z",
+  "updatedAt": "2026-11-03T22:23:37.193Z",
   "coverageFrom": "2020-04-12T10:30:00.000Z",
   "tournaments": [
     {
@@ -813494,6 +813494,100 @@
       ]
     },
     {
+      "id": "arena:4Maj4IXH",
+      "lichessId": "4Maj4IXH",
+      "type": "arena",
+      "name": "LMAO Day 446 Team Battle",
+      "startAt": "2026-11-03T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/4Maj4IXH",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 60,
+          "rank": 1
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 44,
+          "rank": 2
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 36,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 36,
+          "rank": 4
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 33,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 23,
+          "rank": 6
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 8,
+          "rank": 8
+        },
+        {
+          "playerId": "ghukas2010",
+          "username": "Ghukas2010",
+          "points": 6,
+          "rank": 9
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 4,
+          "rank": 11
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 4,
+          "rank": 12
+        },
+        {
+          "playerId": "ipe71",
+          "username": "ipe71",
+          "points": 0,
+          "rank": 13
+        },
+        {
+          "playerId": "sergioing",
+          "username": "SergioING",
+          "points": 0,
+          "rank": 14
+        }
+      ]
+    },
+    {
       "id": "arena:eNiiM5IG",
       "lichessId": "eNiiM5IG",
       "type": "arena",
@@ -813512,6 +813606,22 @@
           "username": "toribiov",
           "points": 24,
           "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:CzUtOxFf",
+      "lichessId": "CzUtOxFf",
+      "type": "arena",
+      "name": "Weekly Bullet Crazyhouse Team Battle",
+      "startAt": "2026-11-03T17:00:00.000Z",
+      "url": "https://lichess.org/tournament/CzUtOxFf",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
         }
       ]
     }
