@@ -813624,6 +813624,98 @@
           "rank": 1
         }
       ]
+    },
+    {
+      "id": "arena:n4SqD49S",
+      "lichessId": "n4SqD49S",
+      "type": "arena",
+      "name": "LMAO Night 446 Team Battle",
+      "startAt": "2026-11-03T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/n4SqD49S",
+      "results": [
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 171,
+          "rank": 1
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 35,
+          "rank": 2
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 30,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 23,
+          "rank": 4
+        },
+        {
+          "playerId": "ronnyhernandez89",
+          "username": "Ronnyhernandez89",
+          "points": 17,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 2,
+          "rank": 6
+        },
+        {
+          "playerId": "thebeast05",
+          "username": "Thebeast05",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "kingjuaneqs",
+          "username": "kingjuaneqs",
+          "points": 0,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:oGU7uesn",
+      "lichessId": "oGU7uesn",
+      "type": "arena",
+      "name": "GP Chess Day Team Battle",
+      "startAt": "2026-11-04T04:30:00.000Z",
+      "url": "https://lichess.org/tournament/oGU7uesn",
+      "results": [
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 23,
+          "rank": 1
+        },
+        {
+          "playerId": "onemanrevo",
+          "username": "onemanrevo",
+          "points": 14,
+          "rank": 2
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 4,
+          "rank": 3
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
