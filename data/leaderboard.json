@@ -813872,6 +813872,28 @@
           "rank": 7
         }
       ]
+    },
+    {
+      "id": "arena:TzN3FZCs",
+      "lichessId": "TzN3FZCs",
+      "type": "arena",
+      "name": "648th ULTRAbullet Team Battle",
+      "startAt": "2026-11-05T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/TzN3FZCs",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 18,
+          "rank": 1
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 0,
+          "rank": 2
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
