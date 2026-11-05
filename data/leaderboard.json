@@ -813874,6 +813874,100 @@
       ]
     },
     {
+      "id": "arena:Y0JmMnaX",
+      "lichessId": "Y0JmMnaX",
+      "type": "arena",
+      "name": "LMAO Day 448 Team Battle",
+      "startAt": "2026-11-05T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/Y0JmMnaX",
+      "results": [
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 48,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 32,
+          "rank": 2
+        },
+        {
+          "playerId": "musshhu",
+          "username": "musshhu",
+          "points": 29,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "belsebusky",
+          "username": "Belsebusky",
+          "points": 19,
+          "rank": 5
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 11,
+          "rank": 6
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 11,
+          "rank": 7
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "egor_volkov777",
+          "username": "Egor_Volkov777",
+          "points": 0,
+          "rank": 14
+        }
+      ]
+    },
+    {
       "id": "arena:TzN3FZCs",
       "lichessId": "TzN3FZCs",
       "type": "arena",
