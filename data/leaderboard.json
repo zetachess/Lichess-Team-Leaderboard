@@ -813820,6 +813820,58 @@
           "rank": 4
         }
       ]
+    },
+    {
+      "id": "arena:nFkqwVLK",
+      "lichessId": "nFkqwVLK",
+      "type": "arena",
+      "name": "LMAO Night 447 Team Battle",
+      "startAt": "2026-11-04T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/nFkqwVLK",
+      "results": [
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 77,
+          "rank": 1
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 44,
+          "rank": 2
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 42,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 31,
+          "rank": 4
+        },
+        {
+          "playerId": "grancapanga",
+          "username": "grancapanga",
+          "points": 16,
+          "rank": 5
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 8,
+          "rank": 6
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 7
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
