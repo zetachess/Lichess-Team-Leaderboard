@@ -814070,6 +814070,100 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:VUeC0pO6",
+      "lichessId": "VUeC0pO6",
+      "type": "arena",
+      "name": "LMAO Day 449 Team Battle",
+      "startAt": "2026-11-06T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/VUeC0pO6",
+      "results": [
+        {
+          "playerId": "joshuaveto19",
+          "username": "Joshuaveto19",
+          "points": 86,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 86,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 69,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 55,
+          "rank": 4
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 42,
+          "rank": 5
+        },
+        {
+          "playerId": "hoangvantuyen",
+          "username": "HoangVanTuyen",
+          "points": 34,
+          "rank": 6
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 32,
+          "rank": 7
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 18,
+          "rank": 8
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 17,
+          "rank": 9
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 10,
+          "rank": 10
+        },
+        {
+          "playerId": "ttt-minh2112",
+          "username": "TTT-minh2112",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 0,
+          "rank": 13
+        },
+        {
+          "playerId": "rayku2005",
+          "username": "RayKu2005",
+          "points": 0,
+          "rank": 14
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
