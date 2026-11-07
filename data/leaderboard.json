@@ -814264,6 +814264,82 @@
           "rank": 15
         }
       ]
+    },
+    {
+      "id": "arena:cO0i7d9j",
+      "lichessId": "cO0i7d9j",
+      "type": "arena",
+      "name": "GP Chess Day Team Battle",
+      "startAt": "2026-11-07T04:30:00.000Z",
+      "url": "https://lichess.org/tournament/cO0i7d9j",
+      "results": [
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 28,
+          "rank": 1
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 24,
+          "rank": 2
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 6,
+          "rank": 3
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 4,
+          "rank": 4
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 4,
+          "rank": 5
+        },
+        {
+          "playerId": "pravia1972",
+          "username": "pravia1972",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 3,
+          "rank": 8
+        },
+        {
+          "playerId": "joshuaveto19",
+          "username": "Joshuaveto19",
+          "points": 3,
+          "rank": 9
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 2,
+          "rank": 10
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 0,
+          "rank": 11
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
