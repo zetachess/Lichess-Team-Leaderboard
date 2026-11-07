@@ -814164,6 +814164,106 @@
           "rank": 14
         }
       ]
+    },
+    {
+      "id": "arena:fOTwjvEW",
+      "lichessId": "fOTwjvEW",
+      "type": "arena",
+      "name": "LMAO Night 449 Team Battle",
+      "startAt": "2026-11-06T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/fOTwjvEW",
+      "results": [
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 90,
+          "rank": 1
+        },
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 79,
+          "rank": 2
+        },
+        {
+          "playerId": "hlbullet",
+          "username": "HLbullet",
+          "points": 62,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 42,
+          "rank": 4
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 38,
+          "rank": 5
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 26,
+          "rank": 6
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 24,
+          "rank": 7
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 6,
+          "rank": 8
+        },
+        {
+          "playerId": "leobengo",
+          "username": "LEOBENGO",
+          "points": 4,
+          "rank": 9
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "kayuhagidhampangmo",
+          "username": "KayuhaGidHampangMo",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "zb_sali",
+          "username": "ZB_Sali",
+          "points": 0,
+          "rank": 13
+        },
+        {
+          "playerId": "laleyendag",
+          "username": "laleyendag",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "joshuaveto19",
+          "username": "Joshuaveto19",
+          "points": 0,
+          "rank": 15
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
