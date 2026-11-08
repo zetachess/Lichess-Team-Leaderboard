@@ -814340,6 +814340,28 @@
           "rank": 11
         }
       ]
+    },
+    {
+      "id": "arena:tkJY8i41",
+      "lichessId": "tkJY8i41",
+      "type": "arena",
+      "name": "650th ULTRAbullet Team Battle",
+      "startAt": "2026-11-08T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/tkJY8i41",
+      "results": [
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 4,
+          "rank": 1
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 2
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
