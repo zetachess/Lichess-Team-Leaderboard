@@ -814362,6 +814362,80 @@
           "rank": 2
         }
       ]
+    },
+    {
+      "id": "arena:QzlVWRQ3",
+      "lichessId": "QzlVWRQ3",
+      "type": "arena",
+      "name": "GP Chess Day Team Battle",
+      "startAt": "2026-11-09T04:30:00.000Z",
+      "url": "https://lichess.org/tournament/QzlVWRQ3",
+      "results": [
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 23,
+          "rank": 1
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 3,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "arena:IKL9gCqv",
+      "lichessId": "IKL9gCqv",
+      "type": "arena",
+      "name": "LMAO Day 452 Team Battle",
+      "startAt": "2026-11-09T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/IKL9gCqv",
+      "results": [
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 50,
+          "rank": 1
+        },
+        {
+          "playerId": "angriffsrochade",
+          "username": "Angriffsrochade",
+          "points": 47,
+          "rank": 2
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 14,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 9,
+          "rank": 4
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 2,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 0,
+          "rank": 7
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
