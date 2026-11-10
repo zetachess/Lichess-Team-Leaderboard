@@ -814506,6 +814506,34 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "id": "arena:HVqcGhF5",
+      "lichessId": "HVqcGhF5",
+      "type": "arena",
+      "name": "652nd ULTRAbullet Team Battle",
+      "startAt": "2026-11-10T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/HVqcGhF5",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 22,
+          "rank": 1
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 8,
+          "rank": 2
+        },
+        {
+          "playerId": "sanvarta2012",
+          "username": "SANVARTA2012",
+          "points": 0,
+          "rank": 3
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
