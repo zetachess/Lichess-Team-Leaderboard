@@ -814508,6 +814508,82 @@
       ]
     },
     {
+      "id": "arena:TzPS0pjD",
+      "lichessId": "TzPS0pjD",
+      "type": "arena",
+      "name": "LMAO Day 453 Team Battle",
+      "startAt": "2026-11-10T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/TzPS0pjD",
+      "results": [
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 52,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 46,
+          "rank": 2
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 42,
+          "rank": 3
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 37,
+          "rank": 4
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 26,
+          "rank": 5
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 23,
+          "rank": 6
+        },
+        {
+          "playerId": "ufo90",
+          "username": "ufo90",
+          "points": 20,
+          "rank": 7
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 11,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "damefruta",
+          "username": "damefruta",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "kakichulo",
+          "username": "kakichulo",
+          "points": 0,
+          "rank": 11
+        }
+      ]
+    },
+    {
       "id": "arena:HVqcGhF5",
       "lichessId": "HVqcGhF5",
       "type": "arena",
@@ -814532,6 +814608,22 @@
           "username": "SANVARTA2012",
           "points": 0,
           "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:TauF5EDe",
+      "lichessId": "TauF5EDe",
+      "type": "arena",
+      "name": "Weekly Bullet Crazyhouse Team Battle",
+      "startAt": "2026-11-10T17:00:00.000Z",
+      "url": "https://lichess.org/tournament/TauF5EDe",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
         }
       ]
     }
