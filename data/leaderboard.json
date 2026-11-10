@@ -814436,6 +814436,76 @@
           "rank": 7
         }
       ]
+    },
+    {
+      "id": "arena:l5q96WUS",
+      "lichessId": "l5q96WUS",
+      "type": "arena",
+      "name": "LMAO Night 452 Team Battle",
+      "startAt": "2026-11-09T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/l5q96WUS",
+      "results": [
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 34,
+          "rank": 1
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 19,
+          "rank": 2
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 16,
+          "rank": 3
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 16,
+          "rank": 4
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 12,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "melacafu",
+          "username": "Melacafu",
+          "points": 0,
+          "rank": 10
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
