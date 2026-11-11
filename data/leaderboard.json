@@ -814626,6 +814626,64 @@
           "rank": 1
         }
       ]
+    },
+    {
+      "id": "arena:XLBiBwSQ",
+      "lichessId": "XLBiBwSQ",
+      "type": "arena",
+      "name": "LMAO Night 453 Team Battle",
+      "startAt": "2026-11-10T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/XLBiBwSQ",
+      "results": [
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 37,
+          "rank": 1
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 32,
+          "rank": 2
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 22,
+          "rank": 3
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 17,
+          "rank": 4
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 11,
+          "rank": 5
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 9,
+          "rank": 6
+        },
+        {
+          "playerId": "sanvarta2012",
+          "username": "SANVARTA2012",
+          "points": 3,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
