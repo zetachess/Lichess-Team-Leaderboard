@@ -814684,6 +814684,22 @@
           "rank": 8
         }
       ]
+    },
+    {
+      "id": "arena:KUcjTIWN",
+      "lichessId": "KUcjTIWN",
+      "type": "arena",
+      "name": "653rd ULTRAbullet Team Battle",
+      "startAt": "2026-11-11T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/KUcjTIWN",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 39,
+          "rank": 1
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
