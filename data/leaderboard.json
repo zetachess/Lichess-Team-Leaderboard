@@ -814834,6 +814834,88 @@
           "rank": 6
         }
       ]
+    },
+    {
+      "id": "arena:BwXauIOe",
+      "lichessId": "BwXauIOe",
+      "type": "arena",
+      "name": "LMAO Night 454 Team Battle",
+      "startAt": "2026-11-11T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/BwXauIOe",
+      "results": [
+        {
+          "playerId": "melojadelospobos",
+          "username": "Melojadelospobos",
+          "points": 25,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 22,
+          "rank": 2
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 20,
+          "rank": 3
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 14,
+          "rank": 4
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 5,
+          "rank": 5
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 0,
+          "rank": 12
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
