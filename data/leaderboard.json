@@ -814686,6 +814686,94 @@
       ]
     },
     {
+      "id": "arena:Mr3LUYqt",
+      "lichessId": "Mr3LUYqt",
+      "type": "arena",
+      "name": "LMAO Day 454 Team Battle",
+      "startAt": "2026-11-11T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/Mr3LUYqt",
+      "results": [
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 50,
+          "rank": 1
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 50,
+          "rank": 2
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 43,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 41,
+          "rank": 4
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 32,
+          "rank": 5
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 22,
+          "rank": 6
+        },
+        {
+          "playerId": "maksman_km",
+          "username": "Maksman_KM",
+          "points": 10,
+          "rank": 7
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 8,
+          "rank": 8
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 2,
+          "rank": 9
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 0,
+          "rank": 13
+        }
+      ]
+    },
+    {
       "id": "arena:KUcjTIWN",
       "lichessId": "KUcjTIWN",
       "type": "arena",
@@ -814698,6 +814786,52 @@
           "username": "ajedrezconzeta",
           "points": 39,
           "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:s04qm9f1",
+      "lichessId": "s04qm9f1",
+      "type": "arena",
+      "name": "Lichess Bullet League 53A Team Battle",
+      "startAt": "2026-11-11T18:00:00.000Z",
+      "url": "https://lichess.org/tournament/s04qm9f1",
+      "results": [
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 54,
+          "rank": 1
+        },
+        {
+          "playerId": "kermit_chaot",
+          "username": "Kermit_Chaot",
+          "points": 48,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 38,
+          "rank": 3
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 4
+        },
+        {
+          "playerId": "d74_12-04-una",
+          "username": "d74_12-04-una",
+          "points": 2,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
         }
       ]
     }
