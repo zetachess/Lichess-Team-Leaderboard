@@ -814916,6 +814916,134 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:5AsDNFG5",
+      "lichessId": "5AsDNFG5",
+      "type": "arena",
+      "name": "LMAO Day 455 Team Battle",
+      "startAt": "2026-11-12T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/5AsDNFG5",
+      "results": [
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 97,
+          "rank": 1
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 79,
+          "rank": 2
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 32,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 30,
+          "rank": 4
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 21,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "playerId": "ronnyhernandez89",
+          "username": "Ronnyhernandez89",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 6,
+          "rank": 9
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "jorgefg",
+          "username": "JorgeFG",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "newton_marsman",
+          "username": "Newton_Marsman",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 15
+        },
+        {
+          "playerId": "karaaslan_hasan",
+          "username": "karaaslan_hasan",
+          "points": 0,
+          "rank": 16
+        }
+      ]
+    },
+    {
+      "id": "arena:sMRITWtE",
+      "lichessId": "sMRITWtE",
+      "type": "arena",
+      "name": "654th ULTRAbullet Team Battle",
+      "startAt": "2026-11-12T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/sMRITWtE",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 58,
+          "rank": 1
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 6,
+          "rank": 2
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
