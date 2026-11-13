@@ -815044,6 +815044,82 @@
           "rank": 2
         }
       ]
+    },
+    {
+      "id": "arena:jy1RIpV0",
+      "lichessId": "jy1RIpV0",
+      "type": "arena",
+      "name": "LMAO Night 455 Team Battle",
+      "startAt": "2026-11-12T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/jy1RIpV0",
+      "results": [
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 99,
+          "rank": 1
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 92,
+          "rank": 2
+        },
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 55,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 47,
+          "rank": 4
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 12,
+          "rank": 6
+        },
+        {
+          "playerId": "thegoldenarcher",
+          "username": "TheGoldenArcher",
+          "points": 6,
+          "rank": 7
+        },
+        {
+          "playerId": "uhary",
+          "username": "Uhary",
+          "points": 5,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "edomar246",
+          "username": "EdOmar246",
+          "points": 0,
+          "rank": 11
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
