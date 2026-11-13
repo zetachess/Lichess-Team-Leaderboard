@@ -815122,6 +815122,106 @@
       ]
     },
     {
+      "id": "arena:izyyUHsg",
+      "lichessId": "izyyUHsg",
+      "type": "arena",
+      "name": "LMAO Day 456 Team Battle",
+      "startAt": "2026-11-13T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/izyyUHsg",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 77,
+          "rank": 1
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 50,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 45,
+          "rank": 3
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 35,
+          "rank": 4
+        },
+        {
+          "playerId": "halthapal",
+          "username": "HalThaPal",
+          "points": 32,
+          "rank": 5
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 14,
+          "rank": 6
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 10,
+          "rank": 7
+        },
+        {
+          "playerId": "kivanc_hasan2",
+          "username": "kivanc_hasan2",
+          "points": 5,
+          "rank": 8
+        },
+        {
+          "playerId": "orzowey",
+          "username": "orzowey",
+          "points": 5,
+          "rank": 9
+        },
+        {
+          "playerId": "escultor2018",
+          "username": "escultor2018",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 3,
+          "rank": 11
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "gafferz",
+          "username": "gafferz",
+          "points": 0,
+          "rank": 15
+        }
+      ]
+    },
+    {
       "id": "arena:wrP4EGuV",
       "lichessId": "wrP4EGuV",
       "type": "arena",
@@ -815144,6 +815244,34 @@
         {
           "playerId": "rdcoltt",
           "username": "RdColtt",
+          "points": 0,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "arena:8EnJ7UIK",
+      "lichessId": "8EnJ7UIK",
+      "type": "arena",
+      "name": "152nd Lichess Mega Team Battle",
+      "startAt": "2026-11-13T17:00:00.000Z",
+      "url": "https://lichess.org/tournament/8EnJ7UIK",
+      "results": [
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 31,
+          "rank": 1
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
           "points": 0,
           "rank": 3
         }
