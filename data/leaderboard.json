@@ -815276,6 +815276,82 @@
           "rank": 3
         }
       ]
+    },
+    {
+      "id": "arena:KIE1ujaA",
+      "lichessId": "KIE1ujaA",
+      "type": "arena",
+      "name": "LMAO Night 456 Team Battle",
+      "startAt": "2026-11-13T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/KIE1ujaA",
+      "results": [
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 106,
+          "rank": 1
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 39,
+          "rank": 2
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 26,
+          "rank": 3
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 21,
+          "rank": 5
+        },
+        {
+          "playerId": "uhary",
+          "username": "Uhary",
+          "points": 15,
+          "rank": 6
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 13,
+          "rank": 7
+        },
+        {
+          "playerId": "hasanalishah",
+          "username": "Hasanalishah",
+          "points": 4,
+          "rank": 8
+        },
+        {
+          "playerId": "kares",
+          "username": "kares",
+          "points": 3,
+          "rank": 9
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 3,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 11
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
