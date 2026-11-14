@@ -815352,6 +815352,130 @@
           "rank": 11
         }
       ]
+    },
+    {
+      "id": "arena:vO2MHtQS",
+      "lichessId": "vO2MHtQS",
+      "type": "arena",
+      "name": "LMAO Day 457 Team Battle",
+      "startAt": "2026-11-14T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/vO2MHtQS",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 105,
+          "rank": 1
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 92,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 48,
+          "rank": 3
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 42,
+          "rank": 4
+        },
+        {
+          "playerId": "petebronce",
+          "username": "PeteBronce",
+          "points": 40,
+          "rank": 5
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 33,
+          "rank": 6
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 26,
+          "rank": 7
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 14,
+          "rank": 8
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 10,
+          "rank": 9
+        },
+        {
+          "playerId": "halthapal",
+          "username": "HalThaPal",
+          "points": 7,
+          "rank": 10
+        },
+        {
+          "playerId": "akacso",
+          "username": "AKacso",
+          "points": 6,
+          "rank": 11
+        },
+        {
+          "playerId": "invalid94",
+          "username": "invalid94",
+          "points": 6,
+          "rank": 12
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 2,
+          "rank": 14
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 15
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 16
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 0,
+          "rank": 17
+        },
+        {
+          "playerId": "kivanc_hasan2",
+          "username": "kivanc_hasan2",
+          "points": 0,
+          "rank": 18
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 0,
+          "rank": 19
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
