@@ -815558,6 +815558,162 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:LIGc9J9V",
+      "lichessId": "LIGc9J9V",
+      "type": "arena",
+      "name": "LMAO Day 458 Team Battle",
+      "startAt": "2026-11-15T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/LIGc9J9V",
+      "results": [
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 72,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 61,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 54,
+          "rank": 3
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 48,
+          "rank": 4
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 33,
+          "rank": 5
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "orzowey",
+          "username": "orzowey",
+          "points": 8,
+          "rank": 7
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 8,
+          "rank": 8
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 4,
+          "rank": 10
+        },
+        {
+          "playerId": "angriffsrochade",
+          "username": "Angriffsrochade",
+          "points": 3,
+          "rank": 11
+        },
+        {
+          "playerId": "kivanc_hasan2",
+          "username": "kivanc_hasan2",
+          "points": 2,
+          "rank": 12
+        },
+        {
+          "playerId": "dimmu_borgir_666",
+          "username": "Dimmu_Borgir_666",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "ghukas2010",
+          "username": "Ghukas2010",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 15
+        },
+        {
+          "playerId": "davidateca",
+          "username": "Davidateca",
+          "points": 0,
+          "rank": 16
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 0,
+          "rank": 17
+        },
+        {
+          "playerId": "joshuaveto19",
+          "username": "Joshuaveto19",
+          "points": 0,
+          "rank": 18
+        },
+        {
+          "playerId": "gerard0705",
+          "username": "Gerard0705",
+          "points": 0,
+          "rank": 19
+        }
+      ]
+    },
+    {
+      "id": "arena:ouhU8Ney",
+      "lichessId": "ouhU8Ney",
+      "type": "arena",
+      "name": "15+15-Sonntagnachmittag Team Battle",
+      "startAt": "2026-11-15T14:30:00.000Z",
+      "url": "https://lichess.org/tournament/ouhU8Ney",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "arena:Kq1ubGNA",
+      "lichessId": "Kq1ubGNA",
+      "type": "arena",
+      "name": "656th ULTRAbullet Team Battle",
+      "startAt": "2026-11-15T15:00:00.000Z",
+      "url": "https://lichess.org/tournament/Kq1ubGNA",
+      "results": [
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 1
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
