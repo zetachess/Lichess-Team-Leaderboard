@@ -815714,6 +815714,52 @@
           "rank": 1
         }
       ]
+    },
+    {
+      "id": "arena:iC89N7V7",
+      "lichessId": "iC89N7V7",
+      "type": "arena",
+      "name": "LMAO Night 458 Team Battle",
+      "startAt": "2026-11-15T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/iC89N7V7",
+      "results": [
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 42,
+          "rank": 1
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 20,
+          "rank": 2
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 18,
+          "rank": 3
+        },
+        {
+          "playerId": "fideoschirimbolescos",
+          "username": "FideosChirimbolescos",
+          "points": 10,
+          "rank": 4
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 6,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
