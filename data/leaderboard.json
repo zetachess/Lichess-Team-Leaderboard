@@ -815760,6 +815760,106 @@
           "rank": 6
         }
       ]
+    },
+    {
+      "id": "arena:gsl51bEj",
+      "lichessId": "gsl51bEj",
+      "type": "arena",
+      "name": "LMAO Day 459 Team Battle",
+      "startAt": "2026-11-16T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/gsl51bEj",
+      "results": [
+        {
+          "playerId": "kalantaryan",
+          "username": "kalantaryan",
+          "points": 82,
+          "rank": 1
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 45,
+          "rank": 2
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 25,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "jerico88",
+          "username": "Jerico88",
+          "points": 14,
+          "rank": 7
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 10,
+          "rank": 9
+        },
+        {
+          "playerId": "ricev",
+          "username": "ricev",
+          "points": 9,
+          "rank": 10
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 3,
+          "rank": 11
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 2,
+          "rank": 14
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 15
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
