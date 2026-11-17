@@ -815860,6 +815860,70 @@
           "rank": 15
         }
       ]
+    },
+    {
+      "id": "arena:BbD6hpjV",
+      "lichessId": "BbD6hpjV",
+      "type": "arena",
+      "name": "LMAO Night 459 Team Battle",
+      "startAt": "2026-11-16T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/BbD6hpjV",
+      "results": [
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 63,
+          "rank": 1
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 41,
+          "rank": 2
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 32,
+          "rank": 3
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 13,
+          "rank": 4
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 6,
+          "rank": 6
+        },
+        {
+          "playerId": "jerico88",
+          "username": "Jerico88",
+          "points": 3,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 0,
+          "rank": 9
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
