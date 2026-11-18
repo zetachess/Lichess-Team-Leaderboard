@@ -816006,6 +816006,40 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:x1l4FFWg",
+      "lichessId": "x1l4FFWg",
+      "type": "arena",
+      "name": "LMAO Night 460 Team Battle",
+      "startAt": "2026-11-17T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/x1l4FFWg",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 35,
+          "rank": 1
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 19,
+          "rank": 2
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 12,
+          "rank": 3
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 4
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
