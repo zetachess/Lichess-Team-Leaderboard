@@ -816040,6 +816040,104 @@
           "rank": 4
         }
       ]
+    },
+    {
+      "id": "arena:If2KIJaG",
+      "lichessId": "If2KIJaG",
+      "type": "arena",
+      "name": "LMAO Day 461 Team Battle",
+      "startAt": "2026-11-18T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/If2KIJaG",
+      "results": [
+        {
+          "playerId": "kalantaryan",
+          "username": "kalantaryan",
+          "points": 300,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 66,
+          "rank": 2
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 32,
+          "rank": 3
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 27,
+          "rank": 4
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 22,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "arena:bKMWOi67",
+      "lichessId": "bKMWOi67",
+      "type": "arena",
+      "name": "Lichess Bullet League 54A Team Battle",
+      "startAt": "2026-11-18T19:00:00.000Z",
+      "url": "https://lichess.org/tournament/bKMWOi67",
+      "results": [
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 61,
+          "rank": 1
+        },
+        {
+          "playerId": "fanradu77",
+          "username": "fanradu77",
+          "points": 12,
+          "rank": 2
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 3
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 0,
+          "rank": 4
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
