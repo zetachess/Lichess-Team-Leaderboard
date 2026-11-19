@@ -816138,6 +816138,70 @@
           "rank": 4
         }
       ]
+    },
+    {
+      "id": "arena:QCtdnS63",
+      "lichessId": "QCtdnS63",
+      "type": "arena",
+      "name": "LMAO Night 461 Team Battle",
+      "startAt": "2026-11-18T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/QCtdnS63",
+      "results": [
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 64,
+          "rank": 1
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 33,
+          "rank": 2
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 24,
+          "rank": 3
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 12,
+          "rank": 4
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 6,
+          "rank": 6
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 0,
+          "rank": 9
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
