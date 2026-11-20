@@ -816284,6 +816284,82 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:dYTFJKkJ",
+      "lichessId": "dYTFJKkJ",
+      "type": "arena",
+      "name": "LMAO Night 462 Team Battle",
+      "startAt": "2026-11-19T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/dYTFJKkJ",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 59,
+          "rank": 1
+        },
+        {
+          "playerId": "halthapal",
+          "username": "HalThaPal",
+          "points": 40,
+          "rank": 2
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 20,
+          "rank": 3
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 15,
+          "rank": 4
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 6,
+          "rank": 6
+        },
+        {
+          "playerId": "ordepcubik",
+          "username": "ordepcubik",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 0,
+          "rank": 11
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
