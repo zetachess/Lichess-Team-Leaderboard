@@ -816360,6 +816360,118 @@
           "rank": 11
         }
       ]
+    },
+    {
+      "id": "arena:CmwseuKI",
+      "lichessId": "CmwseuKI",
+      "type": "arena",
+      "name": "LMAO Day 463 Team Battle",
+      "startAt": "2026-11-20T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/CmwseuKI",
+      "results": [
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 49,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 45,
+          "rank": 2
+        },
+        {
+          "playerId": "angriffsrochade",
+          "username": "Angriffsrochade",
+          "points": 35,
+          "rank": 3
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 29,
+          "rank": 4
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 20,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 18,
+          "rank": 6
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 16,
+          "rank": 7
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 16,
+          "rank": 8
+        },
+        {
+          "playerId": "toribiov",
+          "username": "toribiov",
+          "points": 14,
+          "rank": 9
+        },
+        {
+          "playerId": "melojadelospobos",
+          "username": "Melojadelospobos",
+          "points": 9,
+          "rank": 10
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 8,
+          "rank": 11
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 7,
+          "rank": 12
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 6,
+          "rank": 13
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 6,
+          "rank": 14
+        },
+        {
+          "playerId": "jokratak",
+          "username": "Jokratak",
+          "points": 4,
+          "rank": 15
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 4,
+          "rank": 16
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 17
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
