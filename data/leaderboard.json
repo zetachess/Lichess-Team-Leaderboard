@@ -816202,6 +816202,88 @@
           "rank": 9
         }
       ]
+    },
+    {
+      "id": "arena:sUkC86Dy",
+      "lichessId": "sUkC86Dy",
+      "type": "arena",
+      "name": "LMAO Day 462 Team Battle",
+      "startAt": "2026-11-19T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/sUkC86Dy",
+      "results": [
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 20,
+          "rank": 1
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 16,
+          "rank": 2
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 14,
+          "rank": 3
+        },
+        {
+          "playerId": "dr_choice",
+          "username": "Dr_Choice",
+          "points": 12,
+          "rank": 4
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 8,
+          "rank": 5
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 2,
+          "rank": 6
+        },
+        {
+          "playerId": "kakichulo",
+          "username": "kakichulo",
+          "points": 2,
+          "rank": 7
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 0,
+          "rank": 12
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
