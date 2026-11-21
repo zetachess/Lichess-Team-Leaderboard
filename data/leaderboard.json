@@ -816472,6 +816472,82 @@
           "rank": 17
         }
       ]
+    },
+    {
+      "id": "arena:2s6YwTp6",
+      "lichessId": "2s6YwTp6",
+      "type": "arena",
+      "name": "LMAO Night 463 Team Battle",
+      "startAt": "2026-11-20T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/2s6YwTp6",
+      "results": [
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 52,
+          "rank": 1
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 45,
+          "rank": 2
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 44,
+          "rank": 3
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 24,
+          "rank": 4
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 22,
+          "rank": 5
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 22,
+          "rank": 6
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 19,
+          "rank": 7
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "nyx007",
+          "username": "Nyx007",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "anonymus13",
+          "username": "Anonymus13",
+          "points": 0,
+          "rank": 11
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
