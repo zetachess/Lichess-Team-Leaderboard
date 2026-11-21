@@ -816548,6 +816548,88 @@
           "rank": 11
         }
       ]
+    },
+    {
+      "id": "arena:SWzS6gw3",
+      "lichessId": "SWzS6gw3",
+      "type": "arena",
+      "name": "LMAO Day 464 Team Battle",
+      "startAt": "2026-11-21T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/SWzS6gw3",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 64,
+          "rank": 1
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 38,
+          "rank": 2
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 30,
+          "rank": 3
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 22,
+          "rank": 4
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 5,
+          "rank": 5
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 4,
+          "rank": 8
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 2,
+          "rank": 9
+        },
+        {
+          "playerId": "ormigon",
+          "username": "ormigon",
+          "points": 2,
+          "rank": 10
+        },
+        {
+          "playerId": "joshuaveto19",
+          "username": "Joshuaveto19",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 12
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
