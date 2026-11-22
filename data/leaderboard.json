@@ -816718,6 +816718,122 @@
           "rank": 13
         }
       ]
+    },
+    {
+      "id": "arena:4JqaTV3e",
+      "lichessId": "4JqaTV3e",
+      "type": "arena",
+      "name": "LMAO Day 465 Team Battle",
+      "startAt": "2026-11-22T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/4JqaTV3e",
+      "results": [
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 63,
+          "rank": 1
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 60,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 60,
+          "rank": 3
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 38,
+          "rank": 4
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 22,
+          "rank": 5
+        },
+        {
+          "playerId": "pilgrim2007",
+          "username": "Pilgrim2007",
+          "points": 11,
+          "rank": 6
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 10,
+          "rank": 7
+        },
+        {
+          "playerId": "ahmat1998",
+          "username": "ahmat1998",
+          "points": 5,
+          "rank": 8
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 3,
+          "rank": 9
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 2,
+          "rank": 10
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 2,
+          "rank": 11
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 0,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "id": "arena:V5RzBiez",
+      "lichessId": "V5RzBiez",
+      "type": "arena",
+      "name": "15+15-Sonntagnachmittag Team Battle",
+      "startAt": "2026-11-22T14:30:00.000Z",
+      "url": "https://lichess.org/tournament/V5RzBiez",
+      "results": [
+        {
+          "playerId": "julicelemin",
+          "username": "julicelemin",
+          "points": 2,
+          "rank": 1
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 2
+        },
+        {
+          "playerId": "alipinana",
+          "username": "Alipinana",
+          "points": 0,
+          "rank": 3
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
