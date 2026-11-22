@@ -816630,6 +816630,94 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:W85VQkYr",
+      "lichessId": "W85VQkYr",
+      "type": "arena",
+      "name": "LMAO Night 464 Team Battle",
+      "startAt": "2026-11-21T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/W85VQkYr",
+      "results": [
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 57,
+          "rank": 1
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 40,
+          "rank": 2
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 40,
+          "rank": 3
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 33,
+          "rank": 4
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 12,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 12,
+          "rank": 6
+        },
+        {
+          "playerId": "suddyga",
+          "username": "Suddyga",
+          "points": 5,
+          "rank": 7
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 4,
+          "rank": 8
+        },
+        {
+          "playerId": "kush123456",
+          "username": "Kush123456",
+          "points": 2,
+          "rank": 9
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "pedroaltamira2020",
+          "username": "PedroAltamira2020",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "kares",
+          "username": "kares",
+          "points": 0,
+          "rank": 13
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
