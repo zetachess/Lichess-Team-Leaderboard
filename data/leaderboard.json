@@ -816834,6 +816834,76 @@
           "rank": 3
         }
       ]
+    },
+    {
+      "id": "arena:YpSduHkb",
+      "lichessId": "YpSduHkb",
+      "type": "arena",
+      "name": "LMAO Night 465 Team Battle",
+      "startAt": "2026-11-22T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/YpSduHkb",
+      "results": [
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 54,
+          "rank": 1
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 20,
+          "rank": 2
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 13,
+          "rank": 3
+        },
+        {
+          "playerId": "cloud08",
+          "username": "Cloud08",
+          "points": 11,
+          "rank": 4
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 5,
+          "rank": 5
+        },
+        {
+          "playerId": "dimmu_borgir_666",
+          "username": "Dimmu_Borgir_666",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "ahmat1998",
+          "username": "ahmat1998",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 2,
+          "rank": 9
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 10
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
