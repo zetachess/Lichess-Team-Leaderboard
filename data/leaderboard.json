@@ -816904,6 +816904,106 @@
           "rank": 10
         }
       ]
+    },
+    {
+      "id": "arena:CLUbDr1I",
+      "lichessId": "CLUbDr1I",
+      "type": "arena",
+      "name": "LMAO Day 466 Team Battle",
+      "startAt": "2026-11-23T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/CLUbDr1I",
+      "results": [
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 50,
+          "rank": 1
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 46,
+          "rank": 2
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 25,
+          "rank": 3
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 18,
+          "rank": 4
+        },
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 18,
+          "rank": 5
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 17,
+          "rank": 6
+        },
+        {
+          "playerId": "cosavostra",
+          "username": "COSAVOSTRA",
+          "points": 16,
+          "rank": 7
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 15,
+          "rank": 8
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 14,
+          "rank": 9
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 14,
+          "rank": 10
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 9,
+          "rank": 11
+        },
+        {
+          "playerId": "cazenga111",
+          "username": "Cazenga111",
+          "points": 5,
+          "rank": 12
+        },
+        {
+          "playerId": "dimmu_borgir_666",
+          "username": "Dimmu_Borgir_666",
+          "points": 2,
+          "rank": 13
+        },
+        {
+          "playerId": "bergheim004",
+          "username": "Bergheim004",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 15
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
