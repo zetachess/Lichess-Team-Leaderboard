@@ -817004,6 +817004,106 @@
           "rank": 15
         }
       ]
+    },
+    {
+      "id": "arena:HGJNzhJs",
+      "lichessId": "HGJNzhJs",
+      "type": "arena",
+      "name": "LMAO Night 466 Team Battle",
+      "startAt": "2026-11-23T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/HGJNzhJs",
+      "results": [
+        {
+          "playerId": "cuerosky",
+          "username": "cuerosky",
+          "points": 41,
+          "rank": 1
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 40,
+          "rank": 2
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 32,
+          "rank": 3
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 28,
+          "rank": 4
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 19,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 5,
+          "rank": 6
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 4,
+          "rank": 7
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 2,
+          "rank": 8
+        },
+        {
+          "playerId": "gontetwitch",
+          "username": "GonteTwitch",
+          "points": 2,
+          "rank": 9
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 11
+        },
+        {
+          "playerId": "tonycoa",
+          "username": "tonycoa",
+          "points": 0,
+          "rank": 12
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 0,
+          "rank": 13
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "jairito_itoito",
+          "username": "Jairito_itoito",
+          "points": 0,
+          "rank": 15
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
