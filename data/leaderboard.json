@@ -817186,6 +817186,64 @@
           "rank": 12
         }
       ]
+    },
+    {
+      "id": "arena:rfF86qGr",
+      "lichessId": "rfF86qGr",
+      "type": "arena",
+      "name": "LMAO Night 467 Team Battle",
+      "startAt": "2026-11-24T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/rfF86qGr",
+      "results": [
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 7,
+          "rank": 1
+        },
+        {
+          "playerId": "zodiac5",
+          "username": "zodiac5",
+          "points": 6,
+          "rank": 2
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 4,
+          "rank": 3
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 4,
+          "rank": 4
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 4,
+          "rank": 5
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 6
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "hursitkip33",
+          "username": "hursitkip33",
+          "points": 0,
+          "rank": 8
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
