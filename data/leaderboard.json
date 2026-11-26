@@ -817368,6 +817368,94 @@
           "rank": 19
         }
       ]
+    },
+    {
+      "id": "arena:p1BcZdi2",
+      "lichessId": "p1BcZdi2",
+      "type": "arena",
+      "name": "LMAO Night 468 Team Battle",
+      "startAt": "2026-11-25T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/p1BcZdi2",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 68,
+          "rank": 1
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 45,
+          "rank": 2
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 20,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 20,
+          "rank": 4
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 20,
+          "rank": 5
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 20,
+          "rank": 6
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 15,
+          "rank": 7
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 11,
+          "rank": 9
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 8,
+          "rank": 10
+        },
+        {
+          "playerId": "vladimirech",
+          "username": "Vladimirech",
+          "points": 6,
+          "rank": 11
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 5,
+          "rank": 12
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 13
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
