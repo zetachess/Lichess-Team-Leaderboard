@@ -817244,6 +817244,130 @@
           "rank": 8
         }
       ]
+    },
+    {
+      "id": "arena:CgQ38Knf",
+      "lichessId": "CgQ38Knf",
+      "type": "arena",
+      "name": "LMAO Day 468 Team Battle",
+      "startAt": "2026-11-25T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/CgQ38Knf",
+      "results": [
+        {
+          "playerId": "nahulemetengene",
+          "username": "nahulemetengene",
+          "points": 47,
+          "rank": 1
+        },
+        {
+          "playerId": "mattobato",
+          "username": "mattobato",
+          "points": 32,
+          "rank": 2
+        },
+        {
+          "playerId": "draten",
+          "username": "draten",
+          "points": 25,
+          "rank": 3
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 24,
+          "rank": 4
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 16,
+          "rank": 5
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "melojadelospobos",
+          "username": "Melojadelospobos",
+          "points": 16,
+          "rank": 7
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 12,
+          "rank": 8
+        },
+        {
+          "playerId": "bergheim004",
+          "username": "Bergheim004",
+          "points": 12,
+          "rank": 9
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 12,
+          "rank": 10
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 11,
+          "rank": 11
+        },
+        {
+          "playerId": "cosavostra",
+          "username": "COSAVOSTRA",
+          "points": 9,
+          "rank": 12
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 8,
+          "rank": 13
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 4,
+          "rank": 14
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 2,
+          "rank": 15
+        },
+        {
+          "playerId": "danzino21",
+          "username": "Danzino21",
+          "points": 2,
+          "rank": 16
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 2,
+          "rank": 17
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 18
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 0,
+          "rank": 19
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
