@@ -817644,6 +817644,82 @@
           "rank": 13
         }
       ]
+    },
+    {
+      "id": "arena:ayJ9rGva",
+      "lichessId": "ayJ9rGva",
+      "type": "arena",
+      "name": "LMAO Night 469 Team Battle",
+      "startAt": "2026-11-26T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/ayJ9rGva",
+      "results": [
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 82,
+          "rank": 1
+        },
+        {
+          "playerId": "eduardo_santelices",
+          "username": "eduardo_santelices",
+          "points": 30,
+          "rank": 2
+        },
+        {
+          "playerId": "cosavostra",
+          "username": "COSAVOSTRA",
+          "points": 26,
+          "rank": 3
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 23,
+          "rank": 4
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 19,
+          "rank": 5
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 14,
+          "rank": 6
+        },
+        {
+          "playerId": "amjd2018",
+          "username": "Amjd2018",
+          "points": 10,
+          "rank": 7
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 8,
+          "rank": 8
+        },
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 8,
+          "rank": 9
+        },
+        {
+          "playerId": "melojadelospobos",
+          "username": "Melojadelospobos",
+          "points": 8,
+          "rank": 10
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 11
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
