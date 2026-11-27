@@ -817720,6 +817720,182 @@
           "rank": 11
         }
       ]
+    },
+    {
+      "id": "arena:guuvvAXI",
+      "lichessId": "guuvvAXI",
+      "type": "arena",
+      "name": "LMAO Day 470 Team Battle",
+      "startAt": "2026-11-27T08:00:00.000Z",
+      "url": "https://lichess.org/tournament/guuvvAXI",
+      "results": [
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 78,
+          "rank": 1
+        },
+        {
+          "playerId": "rijik",
+          "username": "rijik",
+          "points": 33,
+          "rank": 2
+        },
+        {
+          "playerId": "rafachess1977",
+          "username": "rafachess1977",
+          "points": 26,
+          "rank": 3
+        },
+        {
+          "playerId": "jmag",
+          "username": "jmag",
+          "points": 20,
+          "rank": 4
+        },
+        {
+          "playerId": "kratos82",
+          "username": "kratos82",
+          "points": 19,
+          "rank": 5
+        },
+        {
+          "playerId": "suddyga",
+          "username": "Suddyga",
+          "points": 16,
+          "rank": 6
+        },
+        {
+          "playerId": "gerard0705",
+          "username": "Gerard0705",
+          "points": 12,
+          "rank": 7
+        },
+        {
+          "playerId": "alexsp66",
+          "username": "Alexsp66",
+          "points": 10,
+          "rank": 8
+        },
+        {
+          "playerId": "bergheim004",
+          "username": "Bergheim004",
+          "points": 7,
+          "rank": 9
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 6,
+          "rank": 10
+        },
+        {
+          "playerId": "sutucale",
+          "username": "sutucale",
+          "points": 6,
+          "rank": 11
+        },
+        {
+          "playerId": "dolmax",
+          "username": "dolmax",
+          "points": 3,
+          "rank": 12
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 3,
+          "rank": 13
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 14
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 0,
+          "rank": 15
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 0,
+          "rank": 16
+        },
+        {
+          "playerId": "javihaanchess",
+          "username": "JAvihaanchess",
+          "points": 0,
+          "rank": 17
+        }
+      ]
+    },
+    {
+      "id": "arena:jPqwOODS",
+      "lichessId": "jPqwOODS",
+      "type": "arena",
+      "name": "153rd Lichess Mega Team Battle",
+      "startAt": "2026-11-27T17:00:00.000Z",
+      "url": "https://lichess.org/tournament/jPqwOODS",
+      "results": [
+        {
+          "playerId": "az1512",
+          "username": "AZ1512",
+          "points": 31,
+          "rank": 1
+        },
+        {
+          "playerId": "braziljr1",
+          "username": "Braziljr1",
+          "points": 26,
+          "rank": 2
+        },
+        {
+          "playerId": "mubapichess87",
+          "username": "Mubapichess87",
+          "points": 16,
+          "rank": 3
+        },
+        {
+          "playerId": "garronero",
+          "username": "garronero",
+          "points": 16,
+          "rank": 4
+        },
+        {
+          "playerId": "fighter89",
+          "username": "Fighter89",
+          "points": 11,
+          "rank": 5
+        },
+        {
+          "playerId": "jorgefg77",
+          "username": "JorgeFG77",
+          "points": 4,
+          "rank": 6
+        },
+        {
+          "playerId": "halthapal",
+          "username": "HalThaPal",
+          "points": 0,
+          "rank": 7
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 8
+        },
+        {
+          "playerId": "lgnacy2006",
+          "username": "lgnacy2006",
+          "points": 0,
+          "rank": 9
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
