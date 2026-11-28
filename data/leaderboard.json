@@ -817898,6 +817898,82 @@
       ]
     },
     {
+      "id": "arena:HkBw5XuW",
+      "lichessId": "HkBw5XuW",
+      "type": "arena",
+      "name": "LMAO Night 470 Team Battle",
+      "startAt": "2026-11-27T20:00:00.000Z",
+      "url": "https://lichess.org/tournament/HkBw5XuW",
+      "results": [
+        {
+          "playerId": "kalantaryan",
+          "username": "kalantaryan",
+          "points": 133,
+          "rank": 1
+        },
+        {
+          "playerId": "rrirrautentico",
+          "username": "RRiRRautentico",
+          "points": 33,
+          "rank": 2
+        },
+        {
+          "playerId": "on1ba",
+          "username": "On1ba",
+          "points": 20,
+          "rank": 3
+        },
+        {
+          "playerId": "altpatzer",
+          "username": "Altpatzer",
+          "points": 20,
+          "rank": 4
+        },
+        {
+          "playerId": "lucifermornigstar666",
+          "username": "LUCIFERMORNIGSTAR666",
+          "points": 15,
+          "rank": 5
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 9,
+          "rank": 6
+        },
+        {
+          "playerId": "farodriguez",
+          "username": "Farodriguez",
+          "points": 7,
+          "rank": 7
+        },
+        {
+          "playerId": "pavelaguedomarrero",
+          "username": "Pavelaguedomarrero",
+          "points": 4,
+          "rank": 8
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 9
+        },
+        {
+          "playerId": "elnylons",
+          "username": "ElNylons",
+          "points": 0,
+          "rank": 10
+        },
+        {
+          "playerId": "thorpon66",
+          "username": "Thorpon66",
+          "points": 0,
+          "rank": 11
+        }
+      ]
+    },
+    {
       "id": "arena:bnY0lVFg",
       "lichessId": "bnY0lVFg",
       "type": "arena",
