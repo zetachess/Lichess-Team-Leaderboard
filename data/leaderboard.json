@@ -817896,6 +817896,34 @@
           "rank": 9
         }
       ]
+    },
+    {
+      "id": "arena:bnY0lVFg",
+      "lichessId": "bnY0lVFg",
+      "type": "arena",
+      "name": "Trial Team Battle",
+      "startAt": "2026-11-27T20:30:00.000Z",
+      "url": "https://lichess.org/tournament/bnY0lVFg",
+      "results": [
+        {
+          "playerId": "garronero",
+          "username": "garronero",
+          "points": 4,
+          "rank": 1
+        },
+        {
+          "playerId": "eloyoff34",
+          "username": "eloyoff34",
+          "points": 0,
+          "rank": 2
+        },
+        {
+          "playerId": "ajedrezconzeta",
+          "username": "ajedrezconzeta",
+          "points": 0,
+          "rank": 3
+        }
+      ]
     }
   ],
   "unavailableTournamentIds": [
